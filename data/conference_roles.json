@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "position": "Advisory Committee",
+    "name": "IEEE International Conference on Multimedia Big Data",
+    "location": "Taiwan",
+    "year": 2016
+  },
+  {
+    "id": 2,
+    "position": "Steering Committee",
+    "name": "International Conference on Social Informatics",
+    "location": "Taiwan",
+    "year": 2015
+  },
+  {
+    "id": 3,
+    "position": "Steering Committee",
+    "name": "International Conference on Big Data",
+    "location": "Taiwan",
+    "year": 2015
+  },
+  {
+    "id": 4,
+    "position": "Advisory Committee",
+    "name": "International Conference on Technologies and Applications of Artificial Intelligence",
+    "location": "Taiwan",
+    "year": 2015
+  },
+  {
+    "id": 5,
+    "position": "Tutorial Chair",
+    "name": "International Conference on Database Systems for Advanced Applications",
+    "location": "Vietnam",
+    "year": 2015
+  },
+  {
+    "id": 6,
+    "position": "Workshop Chair",
+    "name": "Workshop on Database, Data Mining, Big Data, and Information Retrieval, International Computer Symposium",
+    "location": "Taiwan",
+    "year": 2014
+  },
+  {
+    "id": 7,
+    "position": "Conference Chair",
+    "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "location": "Taiwan",
+    "year": 2014
+  },
+  {
+    "id": 8,
+    "position": "Steering Committee",
+    "name": "International Symposium on Music Information Retrieval",
+    "location": "Taiwan",
+    "year": 2014
+  },
+  {
+    "id": 9,
+    "position": "Advisory Committee",
+    "name": "International Conference on Technologies and Applications of Artificial Intelligence",
+    "location": "Taiwan",
+    "year": 2013
+  },
+  {
+    "id": 10,
+    "position": "Program Vice Chair",
+    "name": "IEEE International Conference on Data Mining",
+    "location": "Belgium",
+    "year": 2012
+  },
+  {
+    "id": 11,
+    "position": "Symposium Chair",
+    "name": "International Symposium on Foundations and Frontiers of Data Mining",
+    "location": "China",
+    "year": 2012
+  },
+  {
+    "id": 12,
+    "position": "Workshop Chair",
+    "name": "Workshop on Database, Data Mining and Information Retrieval, International Computer Symposium",
+    "location": "Taiwan",
+    "year": 2012
+  },
+  {
+    "id": 13,
+    "position": "Panel Chair",
+    "name": "International Conference on Mobile Data Management",
+    "location": "Taiwan",
+    "year": 2009
+  },
+  {
+    "id": 14,
+    "position": "Program Chair",
+    "name": "IEEE International Conference on Data Engineering",
+    "location": "Mexico",
+    "year": 2008
+  },
+  {
+    "id": 15,
+    "position": "Conference Chair",
+    "name": "International Conference on Digital Archive Technologies",
+    "location": "Taiwan",
+    "year": 2005
+  },
+  {
+    "id": 16,
+    "position": "Conference Chair",
+    "name": "International Computer Symposium",
+    "location": "Taiwan",
+    "year": 2002
+  },
+  {
+    "id": 17,
+    "position": "Conference Chair",
+    "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "location": "Taiwan",
+    "year": 2002
+  },
+  {
+    "id": 18,
+    "position": "General Chair",
+    "name": "Workshop on Software Engineering and Database Systems, International Computer Symposium",
+    "location": "Taiwan",
+    "year": 2000
+  },
+  {
+    "id": 19,
+    "position": "Program Chair",
+    "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "location": "Japan",
+    "year": 2000
+  },
+  {
+    "id": 20,
+    "position": "Conference Organizer and Program Chair",
+    "name": "International Conference on Database Systems for Advanced Applications",
+    "location": "Taiwan",
+    "year": 1999
+  },
+  {
+    "id": 21,
+    "position": "Vice Program Chair",
+    "name": "IEEE International Conference on Tools with Artificial Intelligence",
+    "location": "USA",
+    "year": 1999
+  },
+  {
+    "id": 22,
+    "position": "Program Chair",
+    "name": "International Conference on Cooperative Information Systems",
+    "location": "USA",
+    "year": 1997
+  },
+  {
+    "id": 23,
+    "position": "Conference Organizer and Program Chair",
+    "name": "IEEE International Conference on Data Engineering",
+    "location": "Taiwan",
+    "year": 1995
+  }
+]

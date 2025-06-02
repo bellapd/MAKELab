@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "university": "Auburn University",
+    "location": "USA",
+    "department": "Department of Computer Science and Software"
+  },
+  {
+    "id": 2,
+    "university": "Hong Kong University of Science and Technology",
+    "location": "Hong Kong",
+    "department": "Department of Computer Science and Engineering"
+  },
+  {
+    "id": 3,
+    "university": "School of Information Systems, Singapore Management University",
+    "location": "Singapore",
+    "department": "Living Analytics Research Centre"
+  },
+  {
+    "id": 4,
+    "university": "Columbia University",
+    "location": "USA",
+    "department": "Department of Biomedical Informatics"
+  },
+  {
+    "id": 5,
+    "university": "The Hong Kong Polytechnic University",
+    "location": "Hong Kong",
+    "department": "Department of Computing"
+  },
+  {
+    "id": 6,
+    "university": "Hong Kong University of Science and Technology",
+    "location": "Hong Kong",
+    "department": "Department of Computer Science and Engineering"
+  },
+  {
+    "id": 7,
+    "university": "Pennsylvania State University",
+    "location": "USA",
+    "department": "Department of Computer Science and Engineering"
+  },
+  {
+    "id": 8,
+    "university": "Harvard Graduate School of Education",
+    "location": "USA",
+    "department": "Science Education and Learning Technologies"
+  },
+  {
+    "id": 9,
+    "university": "The University of Hong Kong",
+    "location": "Hong Kong",
+    "department": "Department of Computer Science"
+  },
+  {
+    "id": 10,
+    "university": "The Chinese University of Hong Kong",
+    "location": "Hong Kong",
+    "department": "Department of Systems Engineering and Engineering Management"
+  },
+  {
+    "id": 11,
+    "university": "Boston University",
+    "location": "USA",
+    "department": "Department of Computer Science"
+  },
+  {
+    "id": 12,
+    "university": "Harvard Graduate School of Education",
+    "location": "USA",
+    "department": "Science Education and Learning Technologies"
+  },
+  {
+    "id": 13,
+    "university": "Microsoft Research Asia",
+    "location": "China",
+    "department": "Faculty Summit (Invited Participant)"
+  },
+  {
+    "id": 14,
+    "university": "King\u2019s College London, University of London",
+    "location": "UK",
+    "department": "Department of Informatics - Algorithms for Pattern Analysis in Music Databases"
+  },
+  {
+    "id": 15,
+    "university": "Stanford University",
+    "location": "USA",
+    "department": "Computer Science Department"
+  },
+  {
+    "id": 16,
+    "university": "Stanford University",
+    "location": "USA",
+    "department": "Center for Computer Assisted Research in the Humanities"
+  },
+  {
+    "id": 17,
+    "university": "Tsinghua University",
+    "location": "China",
+    "department": "Department of Computer Science and Technology"
+  },
+  {
+    "id": 18,
+    "university": "Kyoto University",
+    "location": "Japan",
+    "department": "Research Project on Advanced Database Systems"
+  }
+]

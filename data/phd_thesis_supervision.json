@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "name": "Thamrin, Syauki Aulia",
+      "title": "Distinguishing Depression and Bipolar Disorder on Social Media Data Using Deep Learning Technologies",
+      "date": "January 2025",
+      "institution": "Asia University"
+    },
+    {
+      "id": 2,
+      "name": "Tai, Liang Kuang",
+      "title": "Finding Most Profitable Product(s) Based on Price Settings",
+      "date": "June 2023",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 3,
+      "name": "Wijayanto, Heri",
+      "title": "Distributed Processing of Skyline Queries and the Applications for Upgrading Products to Maximize Profits",
+      "date": "July 2021",
+      "institution": "Asia University"
+    },
+    {
+      "id": 4,
+      "name": "Lin, Chen-Yi",
+      "title": "Efficient Algorithms for Determining k-Most Demanding/Favorate Products",
+      "date": "July 2012",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 5,
+      "name": "Fan, Yao-Chung",
+      "title": "Efficient and Robust Schemes for Accuracy-Guaranteed Sensor Data Aggregation",
+      "date": "October 2010",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 6,
+      "name": "Wang, En-Tzu",
+      "title": "Mining Frequent Itemsets over Distributed Data Streams",
+      "date": "August 2010",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 7,
+      "name": "Cho, Chung-Wen",
+      "title": "Mining and Retrieving Various Sequential Patterns in Sequence Databases",
+      "date": "November 2008",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 8,
+      "name": "Chiu, Ding-Ying",
+      "title": "On Frequent Sequence Mining and Online Classification Techniques",
+      "date": "October 2008",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 9,
+      "name": "Chen, Hung-Chen",
+      "title": "Techniques of Music Analysis, Recommendation, and Retrieval for Music Services",
+      "date": "June 2008",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 10,
+      "name": "Liu, Ning-Han",
+      "title": "Similarity Search in Polyphonic Music Databases",
+      "date": "July 2005",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 11,
+      "name": "Lin, Chia-Han",
+      "title": "A Study on Video Modeling, Indexing and Query Processing",
+      "date": "May 2005",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 12,
+      "name": "Hsu, Jia-Lien",
+      "title": "Content-based Music Information Retrieval and Analysis",
+      "date": "September 2001",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 13,
+      "name": "Wu, Yi-Hung",
+      "title": "The Analysis, Indexing and Retrieval of Web Data",
+      "date": "May 2001",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 14,
+      "name": "Lee, Guanling",
+      "title": "Location Management and Efficient Query Processing in Mobile Information Systems",
+      "date": "May 2001",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 15,
+      "name": "Lo, Shou-Chih",
+      "title": "Data Broadcasting in the Mobile Computing Environment",
+      "date": "May 2000",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 16,
+      "name": "Kuo, Tony C.T.",
+      "title": "Indexing, Retrieval, and Query Processing for Video Databases",
+      "date": "July 1998",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 17,
+      "name": "Liu, Chih-Chin",
+      "title": "Content-Based Video and Music Data Retrieval",
+      "date": "June 1998",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 18,
+      "name": "Yen, Show-Jane",
+      "title": "Efficient Knowledge Discovery from Large Databases",
+      "date": "June 1997",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 19,
+      "name": "Koh, Jia-Ling",
+      "title": "Integration and Query Processing for Object and Multimedia Databases",
+      "date": "June 1997",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 20,
+      "name": "Chang, Chih-Shyang",
+      "title": "The Inference, Aggregation, Refinement and Applications of Uncertain Data",
+      "date": "June 1996",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 21,
+      "name": "Tsai, Pauray S.M.",
+      "title": "Interoperability and Query Optimization in Multi-database Systems",
+      "date": "January 1996",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 22,
+      "name": "Chiu, Jui-Shang",
+      "title": "PV-Table - A Representation System for Exclusive Disjunctive Data",
+      "date": "January 1995",
+      "institution": "National Tsing Hua University"
+    },
+    {
+      "id": 23,
+      "name": "Tseng, Frank S.C.",
+      "title": "A Study on Partial Values with Applications to Query Processing in Heterogeneous Database Systems",
+      "date": "November 1992",
+      "institution": "National Chiao-Tung University"
+    }
+  ]
+  

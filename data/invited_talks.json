@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "talks": "A Deep Learning Approach for Detecting Depression Tendency and Identifying Possible Causes",
+    "location": "Auburn University, USA"
+  },
+  {
+    "id": 2,
+    "talks": "Opportunities and Challenges on Big Data Future Innovations: Experiences on Marketing, Healthcare and Election Applications",
+    "location": "International Conference on Data Mining, Communications and Information Technology, China"
+  },
+  {
+    "id": 3,
+    "talks": "Opportunities and Challenges on Big Data Future Innovations: Experiences on Marketing, Healthcare and Election Applications",
+    "location": "International Conference on Information Technology, Information Systems and Electrical Engineering, Indonesia"
+  },
+  {
+    "id": 4,
+    "talks": "Big Data Analytics: Profiling User Preferences via Mining Wi-Fi Logs",
+    "location": "Singapore Management University, Singapore"
+  },
+  {
+    "id": 5,
+    "talks": "A Deep Architecture for Depression Detection using Posting, Behavior, and Living Environment Data",
+    "location": "Hong Kong University of Science and Technology, Hong Kong"
+  },
+  {
+    "id": 6,
+    "talks": "Finding the Shortest Path with User Requirements",
+    "location": "International Conference on Data Mining, Communications and Information Technology, Thailand"
+  },
+  {
+    "id": 7,
+    "talks": "Shortest Paths and the Extensions",
+    "location": "International Conference on Interdisciplinary Academic Research and Innovation, Indonesia"
+  },
+  {
+    "id": 8,
+    "talks": "Big Data Analytics: Profiling User Preferences via Mining Wi-Fi Logs",
+    "location": "IAS/School of Engineering Joint Lecture, Hong Kong University of Science and Technology, Hong Kong"
+  },
+  {
+    "id": 9,
+    "talks": "Big Data Research & Real-World Applications",
+    "location": "Greater China Database Research Summit, Macau"
+  },
+  {
+    "id": 10,
+    "talks": "Profiling User Preferences through Mobile Wi-Fi Trajectories",
+    "location": "AI Forum, Taiwan"
+  },
+  {
+    "id": 11,
+    "talks": "Big Data and Social Computing",
+    "location": "International Conference on Technologies and Applications of Artificial Intelligence, Taiwan"
+  },
+  {
+    "id": 12,
+    "talks": "Challenges and Opportunities in the Big Data Era",
+    "location": "Big Data Forum, Academia Sinica, Taiwan"
+  },
+  {
+    "id": 13,
+    "talks": "Solving Product Positioning Problems by Top-k Queries",
+    "location": "The Hong Kong Polytechnic University, Hong Kong"
+  },
+  {
+    "id": 14,
+    "talks": "On Top-k Queries: Variants, Algorithms, and Applications",
+    "location": "Hong Kong University of Science and Technology, Hong Kong"
+  },
+  {
+    "id": 15,
+    "talks": "On Top-n Reverse Top-k Queries: Variants, Algorithms, and Applications",
+    "location": "The 2011 IEEE International Conference on Granular Computing, Taiwan"
+  },
+  {
+    "id": 16,
+    "talks": "Mining Frequent Itemsets from Transactional Data Streams",
+    "location": "The Chinese University of Hong Kong, Hong Kong"
+  },
+  {
+    "id": 17,
+    "talks": "Mining Frequent Itemsets from Transactional Data Streams",
+    "location": "Boston University, USA"
+  },
+  {
+    "id": 18,
+    "talks": "Continuous Evaluation of Fastest Path Queries on Road Networks",
+    "location": "Northwestern University, USA"
+  },
+  {
+    "id": 19,
+    "talks": "Efficient kNN Search in Polyphonic Music Databases",
+    "location": "Beijing Google, China"
+  },
+  {
+    "id": 20,
+    "talks": "Mining Frequent Itemsets from Data Streams with a Time-Sensitive Sliding Window",
+    "location": "Beijing Tsinghua University, China"
+  },
+  {
+    "id": 21,
+    "talks": "Music Retrieval and Analysis",
+    "location": "VLDB School, Harbin Institute of Technology and Heilongjiang University, China"
+  },
+  {
+    "id": 22,
+    "talks": "Searching Music in a Music Collection",
+    "location": "Stanford University, USA"
+  },
+  {
+    "id": 23,
+    "talks": "On Data Analysis: Contributions to 21st Century Technologies",
+    "location": "The 7th International Conference on Intelligent Technologies, Taiwan"
+  },
+  {
+    "id": 24,
+    "talks": "Efficient kNN Search in Polyphonic Music Databases using a Lower Bounding Mechanism",
+    "location": "Goldsmiths College London, UK"
+  },
+  {
+    "id": 25,
+    "talks": "Music Retrieval and Analysis",
+    "location": "International Conference on Database Systems for Advanced Applications, Beijing, China"
+  },
+  {
+    "id": 26,
+    "talks": "Content-based Music Retrieval and Analysis",
+    "location": "International Symposium on Music Information Retrieval, USA"
+  },
+  {
+    "id": 27,
+    "talks": "The Effectiveness Study of Various Music Retrieval Approaches",
+    "location": "Sino Franco Workshop on Web Technologies, Taiwan"
+  },
+  {
+    "id": 28,
+    "talks": "3D-List: A Data Structure for Efficient Video Query Processing",
+    "location": "Association of East Asia Research University Workshop on Computer Science, Japan"
+  },
+  {
+    "id": 29,
+    "talks": "Music Representation, Indexing and Retrieval",
+    "location": "NSF Inaugural International Symposium on Music Information Retrieval, USA"
+  },
+  {
+    "id": 30,
+    "talks": "Multimedia Database Systems",
+    "location": "International Conference on Database Systems for Advanced Applications, Taiwan"
+  },
+  {
+    "id": 31,
+    "talks": "An Efficient Approach on Content-Based Image Retrieval with DCT Coefficient Indexes",
+    "location": "Symposium on Advanced Database Systems, Japan"
+  },
+  {
+    "id": 32,
+    "talks": "Continuous Media Management \u2013 Where we stand today and where we will be over the next decade",
+    "location": "IEEE International Workshop on Research Issues in Data Engineering, USA"
+  },
+  {
+    "id": 33,
+    "talks": "Music Information Retrieval",
+    "location": "University of Illinois at Urbana-Champaign, USA"
+  },
+  {
+    "id": 34,
+    "talks": "Data Management and Query Processing in Mobile Environment",
+    "location": "International Symposium on Information Systems and Technologies, Japan"
+  },
+  {
+    "id": 35,
+    "talks": "Indexing, Query Interface and Query Processing for Venus: A Video Database System",
+    "location": "International Symposium on Cooperative Database Systems, Japan"
+  },
+  {
+    "id": 36,
+    "talks": "Future Trends on Data Engineering",
+    "location": "IEEE International Conference on Data Engineering, Taiwan"
+  },
+  {
+    "id": 37,
+    "talks": "Database Mining: Applications, Issues and Solutions",
+    "location": "International Conference on Database Systems for Advanced Applications, Singapore"
+  },
+  {
+    "id": 38,
+    "talks": "Future Directions in Database Research",
+    "location": "IEEE International Computer Software and Applications Conference, Taiwan"
+  },
+  {
+    "id": 39,
+    "talks": "The Status of Information Technology Development in Taiwan",
+    "location": "ACM International Meeting, Singapore"
+  },
+  {
+    "id": 40,
+    "talks": "Dealing with Uncertainties in Heterogeneous Databases",
+    "location": "IEEE International Computer Software and Applications Conference, Japan"
+  }
+]

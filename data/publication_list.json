@@ -1,0 +1,1592 @@
+[
+  {
+    "id": 1,
+    "cite": "P.S. Chen, J. Wong, E.E. Chen, A.L.P. Chen, 2025, “Detecting Autism in Children through Drawing Characteristics using the Visual-Motor Integration Test,” Health Information Science and Systems",
+    "year": 2025,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 2,
+    "cite": "R. Sun, J. Wong, E.E. Chen, A.L.P. Chen, 2024, “Using natural language processing to analyze autistic tendencies from children's picture book narratives,” Multimedia Tools and Applications",
+    "year": 2024,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 3,
+    "cite": "S.A. Thamrin, E.E. Chen, A.L.P. Chen, 2024, “Detecting Bipolar Disorder on Social Media by Post Grouping and Interpretable Deep Learning,” Journal of Intelligent Information Systems",
+    "year": 2024,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 4,
+    "cite": "Y.F. Lin, A.L.P. Chen, 2024, “Predicting the Following Support Strategy during the Emotional Support Dialogue by Integrating the Dialogue History and Supporter Features,” Multimedia Tools and Applications",
+    "year": 2024,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 5,
+    "cite": "Y.S. Tsai, A.L.P. Chen, 2023, “Suicide risk assessment using word-level model with dictionary-based risky posts selection,” Multimedia Tools and Applications",
+    "year": 2023,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 6,
+    "cite": "L.K. Tai, E.T. Wang, A.L.P. Chen, 2023, “Strategies to Selecting Most Profitable Products by Price Settings,” International Journal of Information Technology & Decision Making",
+    "year": 2023,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 7,
+    "cite": "K. Lu, S.A. Thamrin, A.L.P. Chen, 2023, “Depression Detection via Conversation Turn Classification,” Multimedia Tools and Applications",
+    "year": 2023,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 8,
+    "cite": "D. Wu, A.L.P. Chen, 2023, “Classical Chinese Poetry Generation from Vernacular Chinese: A Word-Enhanced Supervised Approach,” Multimedia Tools and Applications",
+    "year": 2023,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 9,
+    "cite": "Y.S. Lin, L.K. Tai, A.L.P. Chen, 2022, “The Detection of Mental Health Conditions by Incorporating External Knowledge,” Journal of Intelligent Information Systems",
+    "year": 2022,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 10,
+    "cite": "Z. Zhang, A.L.P. Chen, 2022, “Biomedical Named Entity Recognition with the Combined Feature Attention and Fully-Shared Multi-Task Learning,” BMC Bioinformatics",
+    "year": 2022,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 11,
+    "cite": "T.W. Chang, Y.C. Fan, A.L.P. Chen, 2022, “Emotion-Cause Pair Extraction Based on Machine Reading Comprehension Model,” Multimedia Tools and Applications",
+    "year": 2022,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 12,
+    "cite": "J.C. Cheng, A.L.P. Chen, 2022, “Multimodal Time-Aware Attention Networks for Depression Detection,” Journal of Intelligent Information Systems",
+    "year": 2022,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 13,
+    "cite": "H. Wijayanto, W. Wang, W.S. Ku, A.L.P. Chen, 2021, “LShape Partitioning: Parallel Skyline Query Processing using MapReduce,” IEEE Transactions on Knowledge and Data Engineering",
+    "year": 2021,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 14,
+    "cite": "C.Y. Chiu, H.Y. Lane, J.L. Koh, A.L.P. Chen, 2021, “Multimodal Depression Detection on Instagram Considering Time Interval of Posts,” Journal of Intelligent Information Systems, Vol. 56, pp. 25-47",
+    "year": 2021,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 15,
+    "cite": "C.Y. Lin, Y.H. Wu, A.L.P. Chen, 2021, “Selecting the Most Helpful Answers in Online Health Question Answering Communities,” Journal of Intelligent Information Systems, Vol. 57, pp. 271–293",
+    "year": 2021,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 16,
+    "cite": "L.K. Tai, E.T. Wang, A.L.P. Chen, 2021, “Finding the Most Profitable Candidate Product by Dynamic Skyline and Parallel Processing,” Distributed and Parallel Databases, Vol. 39, pp. 979–1008",
+    "year": 2021,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 17,
+    "cite": "Y.S. Chen, C.Y. Chou, A.L.P. Chen, 2020, “Early Prediction of Acquiring Acute Kidney Injury for Older Inpatients Using Most Effective Laboratory Test Results,” BMC Medical Informatics and Decision Making",
+    "year": 2020,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 18,
+    "cite": "P.H. Wu, A. Yu, C.W. Tsai, J.L. Koh, C.C. Kuo, A.L.P. Chen, 2020, “Keyword Extraction and Structuralization of Medical Reports,” Health Information Science and Systems 8, 18",
+    "year": 2020,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 19,
+    "cite": "L.K. Tai, W. Setyonugroho, A.L.P. Chen, 2020, “Finding Discriminatory Features from Electronic Health Records for Depression Prediction,” Journal of Intelligent Information Systems, Vol. 55, pp. 371–396",
+    "year": 2020,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 20,
+    "cite": "M.Y. Wu, C.Y. Shen, E.T. Wang, A.L.P. Chen, 2020, “A Deep Architecture for Depression Detection using Posting, Behavior, and Living Environment Data,” Journal of Intelligent Information Systems, Vol. 54, pp. 225–244",
+    "year": 2020,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 21,
+    "cite": "Y.C. Fan, C.W. Chang, W.C. Lee, K.C. Wu, A.L.P. Chen, 2018, “On the Semantic Annotation of Wi-Fi SSID Logs in Mobile Applications,” Pervasive and Mobile Computing, Vol. 43, pp. 131-145",
+    "year": 2018,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 22,
+    "cite": "J.L. Koh, C.C. Chen, C.Y. Chan, A.L.P. Chen, 2017, “MapReduce Skyline Query Processing with Partitioning and Distributed Dominance Tests,” Information Sciences, Vol. 375, pp. 114–137",
+    "year": 2017,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 23,
+    "cite": "I.C. Lee, E.E. Chen, C.H. Tsai, N.S. Yen, A.L.P. Chen, W.C. Lin, 2016, “Voting Intention and Choices: Are Voters Always Rational and Deliberative?” PLOS ONE",
+    "year": 2016,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 24,
+    "cite": "Y.C. Fan, Y.C. Chen, K.C. Tung, K.C. Wu, A.L.P. Chen, 2016, “A Framework for Enabling User Preference Profiling through Wi-Fi Logs,” IEEE Transactions on Knowledge and Data Engineering, Vol. 28, No. 3, pp. 592- 603",
+    "year": 2016,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 25,
+    "cite": "J.L. Koh, C.Y. Lin, A.L.P. Chen, 2014, “Finding k Most Favorite Products based on Reverse Top-t Queries,” The VLDB Journal, 23(4): 541-564",
+    "year": 2014,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 26,
+    "cite": "C.L. Li, E.T. Wang, G.J. Huang, A.L.P. Chen, 2014, “Top-n Query Processing in Spatial Databases Considering Bi-chromatic Reverse k- Nearest Neighbors,” Information Systems, Vol. 42, pp. 123–138",
+    "year": 2014,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 27,
+    "cite": "M.F. Tsai, C.W. Tzeng, A.L.P. Chen, 2014, “Discovering Leaders from Social Networks by Action Cascades,” Social Network Analysis and Mining, Vol. 4, No. 1",
+    "year": 2014,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 28,
+    "cite": "C.Y. Lin, J.L. Koh, A.L.P. Chen, 2013, “Determining k-Most Demanding Products with Maximum Expected Number of Total Customers,” IEEE Transactions on Knowledge and Data Engineering, Vol. 25, No. 8, pp. 1732-1747",
+    "year": 2013,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 29,
+    "cite": "Y.C. Fan and A.L.P. Chen, 2012, “Energy Efficient Schemes for Accuracy-Guaranteed Sensor Data Aggregation using Scalable Counting,” IEEE Transactions on Knowledge and Data Engineering, Vol. 24, No. 8, pp. 1463-1477",
+    "year": 2012,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 30,
+    "cite": "C.W. Cho, Y.H. Wu, S.J. Yen, Y. Cheng, A.L.P. Chen, 2011, “On-Line Rule Matching for Event Prediction,” The VLDB Journal, 20(3): 303- 334",
+    "year": 2011,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 31,
+    "cite": "E.T. Wang and A.L.P. Chen, 2011, “Mining Frequent Itemsets over Distributed Data Streams by Continuously Maintaining a Global Synopsis,\" Data Mining and Knowledge Discovery, Vol. 23, No. 2, pp. 252-299",
+    "year": 2011,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 32,
+    "cite": "N.S. Yen, J.L. Tsai, P.L. Chen, H.Y. Lin, A.L.P. Chen, 2011, “Effects of Typographic Variables on Eye Movement Measures in Reading Chinese from the Screen,” Behaviour & Information Technology, 30(6), 797-808",
+    "year": 2011,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 33,
+    "cite": "Y.C. Fan and A.L.P. Chen, November 2010, “Efficient and Robust Schemes for Sensor Data Aggregation based on Linear Counting,” IEEE Transactions on Parallel and Distributed Systems, Vol. 21, No. 11, pp. 1675-1691",
+    "year": 2010,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 34,
+    "cite": "N.H. Liu, Y.H. Wu and A.L.P. Chen, July 2010, “Identifying Prototypical Melodies by Extracting Approximate Repeating Patterns from Music Works,” Journal of Information Science and Engineering, Vol. 26, No. 4, pp.1181-1198",
+    "year": 2010,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 35,
+    "cite": "E.T. Wang and A.L.P. Chen, 2009, “A Novel Hash-based Approach for Mining Frequent Itemsets over Data Streams Requiring Less Memory Space,” Data Mining and Knowledge Discovery, Springer, Vol. 19, No. 1, pp.132-172",
+    "year": 2009,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 36,
+    "cite": "D.Y. Chiu, Y.H. Wu and A.L.P. Chen, 2009, “Efficient Frequent Sequence Mining by a Dynamic Strategy Switching Algorithm,” The VLDB Journal, Vol. 18, No. 1, pp.303-327",
+    "year": 2009,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 37,
+    "cite": "C.W. Cho, Y.H. Wu and A.L.P. Chen, 2009, \"Effective Database Transformation and Efficient Support Computation for Mining Sequential Patterns,\" Journal of Intelligent Information Systems, Vol. 32, No. 1, pp.23-51",
+    "year": 2009,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 38,
+    "cite": "H.C. Chen, Y.H. Wu, Y.C. Soo and A.L.P. Chen, 2008, “Continuous Query Processing over Music Streams Based on Approximate Matching Mechanisms,” ACM/Springer Multimedia Systems Journal, Vol. 14, No. 1, pp.51-70",
+    "year": 2008,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 39,
+    "cite": "Y.H. Wu, C.M. Chiang and A.L.P. Chen, 2007, “Hiding Sensitive Association Rules with Limited Side Effects,” IEEE Transactions on Knowledge and Data Engineering, Vol. 19, No. 1, pp.29-42",
+    "year": 2007,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 40,
+    "cite": "S.C. Lo and A.L.P. Chen, 2007, “Efficient Index and Data Allocation for Wireless Broadcast Services,” Data & Knowledge Engineering, Elsevier, Vol. 60, No. 1, pp.235-255",
+    "year": 2007,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 41,
+    "cite": "P.Y. Chen and A.L.P. Chen, 2006, “A Similarity-based Motion Track Management for Video Retrieval,” Journal of Information Science and Engineering (EI,SCIE), Vol. 7, No. 1, pp.1-11",
+    "year": 2006,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 42,
+    "cite": "C.H. Lin and A.L.P. Chen, 2006, \"Indexing and Matching Multiple- Attribute Strings for Efficient Multimedia Query Processing,\" IEEE Transactions on Multimedia (EI,SCIE), Vol. 8, No. 2, pp.408-411",
+    "year": 2006,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 43,
+    "cite": "Y.C. Chang, Y.H. Wu and A.L.P. Chen, 2006, “Discovering Phenomena – Correlations among Association Rules,” Journal of Internet Technology (EI), Vol. 7, No. 1, pp.1-11",
+    "year": 2006,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 44,
+    "cite": "N.H. Liu, Y.H. Wu and A.L.P. Chen, 2005, \"Efficient kNN Search in Polyphonic Music Databases Using a Lower Bounding Mechanism,\" ACM Multimedia Systems Journal (EI,SCI), Vol. 10, No. 6, pp.513- 528",
+    "year": 2005,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 45,
+    "cite": "C.H. Hsu, G. Lee and A.L.P. Chen, 2005, \"An Efficient Algorithm for Near Optimal Data Allocation on Multiple Broadcast Channels,” Distributed and Parallel Databases (EI,SCI), Springer Science, Vol. 18, No. 3, pp.207-222",
+    "year": 2005,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 46,
+    "cite": "W.W. Hsieh and A.L.P. Chen, 2005, “Constructing a Bowling Information System with Video Content Analysis,” Multimedia Tools and Applications (EI,SCIE), Springer Science, Vol. 26, No. 2, pp.207- 220",
+    "year": 2005,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 47,
+    "cite": "G. Lee, Y.N. Pan and A.L.P. Chen 2005, \"Data Scheduling in Multiple Channels/Multiple Receivers Environments for processing Data Requests with Timing Constraints,\" Journal of Information Science and Engineering (EI,SCIE), Vol. 21, No. 6, pp.1179-1199",
+    "year": 2005,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 48,
+    "cite": "H.C. Chen and A.L.P. Chen, 2005, \"A Music Recommendation System based on Music and User Grouping,\" Intelligent Information Systems (EI,SCIE), 24:2/3, Springer Science, pp.113-132",
+    "year": 2005,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 49,
+    "cite": "G. Lee, S.C. Lo and A.L.P. Chen, October 2002, \"Data Allocation on Wireless Broadcast Channels for Efficient Query Processing,\" IEEE Transactions on Computers: Special Section on Data Management Systems and Mobile Computing (EI,SCI), Vol. 51, No. 10, pp.1237- 1252",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 50,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, July/August 2002, \"Optimizing Queries with Foreign Functions in a Distributed Environment,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), Vol. 14, No. 4, pp.809-824",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 51,
+    "cite": "J.L. Koh and A.L.P. Chen, July/August 2002, \"Efficient Query Processing in Integrated Multiple Object Databases with Maybe Result Certification,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), Vol. 14, No. 4, pp.691-708",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 52,
+    "cite": "S.C. Lo and A.L.P. Chen, July 2002, \"Adaptive Region-Based Location Management for PCS Systems,\" IEEE Transactions on Vehicular Technology (EI,SCI), Vol. 51, No. 4, pp.667-676",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 53,
+    "cite": "Y.H. Wu and A.L.P. Chen, 2002, \"Prediction of Web Page Accesses by Proxy Server Log,\" World Wide Web: Internet and Web Information Systems (SCIE), Kluwer Academic Publishers, Vol. 5, No. 1, pp.67- 88",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 54,
+    "cite": "J.L. Koh and A.L.P. Chen, March 2002, \"An Approach to Querying Multiple Object Databases,\" Journal of Information Science and Engineering (EI,SCIE), Vol. 18, No. 2, pp.281-310",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 55,
+    "cite": "C.C. Liu and A.L.P. Chen, January/February 2002, \"3D-List: A Data Structure for Efficient Video Query Processing,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), Vol. 14, No. 1, pp.106- 122",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 56,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, 2002, \"A Mask Matching Approach for Video Segmentation on Compressed Data,\" Information Sciences: an International Journal (EI,SCI), special issue on Intelligent Multimedia Computing and Networking, pp.169-191",
+    "year": 2002,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 57,
+    "cite": "S.J. Yen and A.L.P. Chen, September/October 2001, \"A Graph-Based Approach for Discovering Various Types of Association Rules,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), Vol. 13, No. 5, pp.839-845",
+    "year": 2001,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 58,
+    "cite": "J.L. Hsu, C.C. Liu and A.L.P. Chen, September 2001, \"Discovering Non-Trivial Repeating Patterns in Music Data,\" IEEE Transactions on Multimedia (EI,SCIE), Vol. 3, No. 3, pp.311-325",
+    "year": 2001,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 59,
+    "cite": "G. Lee and A.L.P. Chen, 2001, \"The Design of Location Regions using User Movement Behaviors in PCS Systems,\" Multimedia Tools and Applications (EI,SCIE), Kluwer Academic Publishers, Vol. 15, pp.187- 202",
+    "year": 2001,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 60,
+    "cite": "G. Lee, K.L. Lee and A.L.P. Chen, 2001, \"Efficient Graph-Based Algorithms for Discovering and Maintaining Association Rules in Large Databases,\" Knowledge and Information Systems (SCIE), Springer-Verlag, Vol. 3, pp.338-355",
+    "year": 2001,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 61,
+    "cite": "C.C. Liu, A.J.L. Hsu and A.L.P. Chen, 2001, \"Efficient Near Neighbor Searching Using Multi-Indexes for Content-Based Multimedia Data Retrieval,\" Multimedia Tools and Applications (EI,SCIE), Kluwer Academic Publishers, pp.235-254",
+    "year": 2001,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 62,
+    "cite": "S.C. Lo and A.L.P. Chen, July/August 2000, \"An Adaptive Access Method for Broadcast Data under an Error-Prone Mobile Environment,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), Vol. 12, No. 4, pp.609-620",
+    "year": 2000,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 63,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, March 2000, \"Content-Based Query Processing for Video Databases,\" IEEE Transactions on Multimedia (EI,SCIE), Vol. 2, No. 1, pp.1-13",
+    "year": 2000,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 64,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, July 2000, \"Partial Natural Outerjoin - An Operation for Interoperability in a Multidatabase Environment,\" Journal of Information Science and Engineering (EI,SCIE), Vol. 16, No. 4, pp.593-617",
+    "year": 2000,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 65,
+    "cite": "A.L.P. Chen, C.C. Liu and T.C.T. Kuo, 1999, \"Content-based Video Data Retrieval,\" Proceedings of the National Science Council, ROC(A), Vol. 23, No. 4, pp.449-465",
+    "year": 1999,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 66,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, 1999, \"A Methodology for Schema Integration Using Concept Hierarchies,\" Integrated Computer-Aided Engineering (EI), 6(3), pp.233-248, John Wiley & Sons",
+    "year": 1999,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 67,
+    "cite": "C.S. Chang and A.L.P. Chen, 1998, \"Supporting Conceptual and Neighborhood Queries on WWW,\" IEEE Transactions on Systems, Man, and Cybernetics, Part C: application and reviews (EI,SCI), Vol.28, no.2, pp.300-308",
+    "year": 1998,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 68,
+    "cite": "C.S. Chang and A.L.P. Chen, 1997, \"Efficient Refinement of Uncertain Data by Fuzzy Integrity Constraints,\" Information Sciences: An International Journal (EI,SCI), Elsevier Science, pp. 191-212",
+    "year": 1997,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 69,
+    "cite": "C.C. Liu and A.L.P. Chen, 1997, \"Vega: A Multimedia Database System Supporting Content-Based Retrieval,\" Information Science and Engineering (EI), p. 369-398",
+    "year": 1997,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 70,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, 1997, \"Optimizing Entity Join Queries hen Data Transmission Cost Dominates,\" Data & Knowledge Engineering (EI), North-Holland, pp. 283-308",
+    "year": 1997,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 71,
+    "cite": "J.S. Chiu and A.L.P. Chen, 1997, \"Manipulation of Exclusive Disjunctive Data in Relational Databases,\" Data & Knowledge Engineering (EI), North-Holland, pp. 39-65",
+    "year": 1997,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 72,
+    "cite": "S.J. Yen and A.L.P. Chen, 1996, \"The Analysis of Relationships in Databases for Rule Derivation,\" Intelligent Information Systems (EI), Kluwer Academic Publishers, pp. 235-260",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 73,
+    "cite": "A.L.P. Chen, J.S. Chiu and F.S.C. Tseng, April 1996, \"Evaluating Aggregate Operations over Imprecise Data,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), pp. 273-284",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 74,
+    "cite": "J.S. Chiu and A.L.P. Chen, February 1996, \"A Note on Incomplete Relational Database Models Based on Intervals,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), pp. 189-191",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 75,
+    "cite": "A.L.P. Chen, P.S.M. Tsai, J.L. Koh, 1996, \"Identifying Object Isomerism in Multidatabase Systems,\" Distributed and Parallel Databases (EI,SCI), Kluwer Academic Publishers, pp. 143-168",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 76,
+    "cite": "C.S. Chang and A.L.P. Chen, 1996, \"Aggregate Functions over Probabilistic Data,\" Information Sciences: An International Journal (EI,SCI), Elsevier Science, pp.15-45",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 77,
+    "cite": "W.F. Wang and A.L.P. Chen, April 1996, \"A New Relation Partitioning Scheme for Distributed Query Optimization,\" Information Science and Engineering (EI), pp. 79-99",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 78,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, April 1996, \"Implementing the Division Operation on a Database Containing Uncertain Data,\" Information Science and Engineering (EI), pp. 51-78",
+    "year": 1996,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 79,
+    "cite": "J.S. Chiu and A.L.P. Chen, December 1995, \"An Exploration of Relationships among Exclusive Disjunctive Data,\" IEEE Transactions on Knowledge and Data Engineering (EI,SCI), pp. 928-940",
+    "year": 1995,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 80,
+    "cite": "A.L.P. Chen, J.L. Koh, T.C.T. Kuo, C.C. Liu, 1995, \"Schema Integration and Query Processing for Multiple Object Databases,\" Integrated Computer-Aided Engineering: Special Issue on Multidatabase and Interoperable Systems, John Wiley & Sons, pp. 21-34",
+    "year": 1995,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 81,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, October 1993, \"Searching a Minimal Semantically-Equivalent Subset of a Set of Partial Values,\" The VLDB Journal, The VLDB Endowment, pp. 489-512",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 82,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, 1993, \"Answering Heterogeneous Database Queries with Degrees of Uncertainty,\" Distributed and Parallel Databases (EI,SCI), Kluwer Academic Publishers, pp. 281-302",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 83,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, 1993, \"Refining Imprecise Data by Integrity Constraints,\" Data & Knowledge Engineering (EI), North-Holland, pp. 299-316",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 84,
+    "cite": "C. Wang, V.O.K. Li, A.L.P. Chen, October 1993, \"One-Shot Semi-Join Execution Strategies for Processing Distributed Queries,\" Computer Systems Science and Engineering (EI,SCI), CRL Publishing, pp. 245- 253",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 85,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, 1993, \"Finding a Complete Matching with the Maximum Product on Weighted Bipartite Graphs,\" Computers & Mathematics with Applications (SCI), Pergamon Press, pp. 65-71",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 86,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, 1993, \"A Localized Approach to Query Optimization in Heterogeneous Database Systems,\" Information Science and Engineering (EI), pp. 605-623",
+    "year": 1993,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 87,
+    "cite": "C. Wang, A.L.P. Chen, S.C. Shyu, May 1992, \"A Parallel Execution Method to Minimizing Distributed Query Response Time,\" IEEE Transactions on Parallel and Distributed Systems (EI,SCI), pp. 325- 333",
+    "year": 1992,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 88,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, October 1992, \"On Mapping Natural Language Constructs into Relational Algebra through E-R Representation,\" Data & Knowledge Engineering (EI), North-Holland, pp. 97-118",
+    "year": 1992,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 89,
+    "cite": "J.C.R. Tseng and A.L.P. Chen, December 1992, \"Improving Distributed Query Processing by Hash-Semijoins,\" Information Science and Engineering (EI), pp. 525-540",
+    "year": 1992,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 90,
+    "cite": "A.L.P. Chen, June 1991, \"Optimizing Multidatabase Queries by Query Transformation,\" Information Science and Engineering (EI), pp. 279- 296",
+    "year": 1991,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 91,
+    "cite": "A.L.P. Chen, D. Brill, M. Templeton, C. Yu, April 1989, \"Distributed Query Processing in a Multiple Database System,\" IEEE Journal on Selected Areas in Communications: Special Issue on Databases in Communications Systems (SCI,EI), pp. 390-398",
+    "year": 1989,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 92,
+    "cite": "C. Yu, K. Guh, D. Brill, A.L.P. Chen, June 1989, \"Partition Strategy for Distributed Query Processing in Fast Local Networks,\" IEEE Transactions on Software Engineering (SCI,EI), pp. 780-793",
+    "year": 1989,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 93,
+    "cite": "C. Yu, K. Guh, W. Zhang, M. Templeton, D. Brill, A.L.P. Chen, October 1987, \"Algorithms to Process Distributed Queries in Fast Local Networks,\" IEEE Transactions on Computers (SCI,EI), pp. 1153-1164",
+    "year": 1987,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 94,
+    "cite": "M. Templeton, D. Brill, A.L.P. Chen, S. Dao, E. Lund, R. MacGregor, P. Ward, May 1987, \"Mermaid - A Front-end to Distributed Heterogeneous Databases,\" Proceedings of the IEEE: Special Issue on Distributed Database Systems (SCI,EI), pp. 695-708",
+    "year": 1987,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 95,
+    "cite": "A.L.P. Chen and V.O.K. Li, October 1985, \"An Optimal Algorithm for Processing Distributed Star Queries,\" IEEE Transactions on Software Engineering (SCI,EI), pp. 1097-1107",
+    "year": 1985,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 96,
+    "cite": "A.L.P. Chen and V.O.K. Li, November 1984, \"Improvement Algorithms for Semijoin Query Processing Programs in Distributed Database Systems,\" IEEE Transactions on Computers (SCI,EI), pp. 959-967 (B)",
+    "year": 1984,
+    "type": "Journal Papers"
+  },
+  {
+    "id": 97,
+    "cite": "Advances in Knowledge Discovery and Data Mining, V.S. Tseng, T.B. Ho, Z.H. Zhou, A.L.P. Chen, H.Y. Kao (Eds.), Springer, 2014",
+    "year": 2014,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 98,
+    "cite": "Trends and Applications in Knowledge Discovery and Data Mining, W.-C. Peng, H. Wang, J. Bailey, V.S. Tseng, T.B. Ho, Z.H. Zhou, A.L.P. Chen (Eds.), Springer, 2014",
+    "year": 2014,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 99,
+    "cite": "Proceedings of the International Conference on Granular Computing, T.Y. Lin, X. Hu, Z. Wu, A.L.P. Chen, A.Z. Broder, H. Ho, S. Wang (Eds.), IEEE, 2012",
+    "year": 2012,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 100,
+    "cite": "Y.H. Wu and A.L.P. Chen, 2009, \"Data Analysis,\" Encyclopedia of Computer Science and Engineering, Benjamin W. Wah (Ed.), John Wiley & Sons Publishers, Vol. 2, pp.747-759",
+    "year": 2009,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 101,
+    "cite": "A.L.P. Chen and Y.H. Wu, 2009, \"Data Analysis,\" Encyclopedia of Electrical and Electronics Engineering, John G. Webster (Ed.), John Wiley & Sons Publishers",
+    "year": 2009,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 102,
+    "cite": "Proceedings of the International Conference on Data Engineering, G. Alonso, J.A. Blakeley, A.L.P. Chen (Eds.), IEEE, 2008",
+    "year": 2008,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 103,
+    "cite": "Knowledge Discovery and Data Mining: Current Issues and New Applications, T. Terano, H. Liu, A.L.P. Chen (Eds.), Springer, 2000",
+    "year": 2000,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 104,
+    "cite": "A.L.P. Chen and Y.H. Wu, 1999, \"Data Analysis,\" Encyclopedia of Electrical and Electronics Engineering, John G. Webster (Ed.), John Wiley & Sons Publishers, Vol. 4, pp.506-514",
+    "year": 1999,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 105,
+    "cite": "Database Systems for Advanced Applications, A.L.P. Chen, F.H. Lochovsky (Eds.), IEEE, 1999",
+    "year": 1999,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 106,
+    "cite": "Cooperative Information Systems, A.L.P. Chen, W. Klas, M.P. Singh (Eds.), IEEE, 1997",
+    "year": 1997,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 107,
+    "cite": "Proceedings of the International Conference on Data Engineering, P.S. Yu, A.L.P. Chen (Eds.), IEEE, 1995",
+    "year": 1995,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 108,
+    "cite": "A.L.P. Chen, 1994, \"Database Research at NTHU and ITRI,\" ACM Sigmod Record",
+    "year": 1994,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 109,
+    "cite": "C. Yu, K. Guh, A.L.P. Chen, 1988, \"An Integrated Algorithm for Distributed Query Processing,\" Distributed Processing, Barton, Dagless, Reijns (Eds.), North-Holland",
+    "year": 1988,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 110,
+    "cite": "M. Templeton, D. Brill, A.L.P. Chen, S. Dao, E. Lund, R. MacGregor, P. Ward, 1986, \"An Introduction to AIDA - A Front-end to Heterogeneous Databases,\" Distributed Processing and Data Base Systems, W.W. Chu (Ed.), Artech-House (C)",
+    "year": 1986,
+    "type": "Invited Articles, Book Chapters, and Edited Books"
+  },
+  {
+    "id": 111,
+    "cite": "Y. Li, J. Wong, E.E. Chen, S.A. Thamrin, A.L.P. Chen, “Autism Detection by Analyzing Handwriting Characteristics of Chinese Characters via Deep Learning Models,” Proc. The 27th International Conference on Big Data Analytics and Knowledge Discovery",
+    "year": 2025,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 112,
+    "cite": "S.A. Thamrin, A.L.P. Chen, “Analyzing Education-Related Posts in Detecting Depression on Social Media Using Topic Modeling Method and Large Language Model,” Proc. International Conference on Information and Education Technology 2024",
+    "year": 2025,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 113,
+    "cite": "Y.Y. Lai, A.L.P. Chen, “Using Speech Characteristics from Children’s Story Narratives to Detect Autistic Tendencies through Deep Learning Methods,” Proc. IEEE International Conference on Big Data/Workshop on Big Data and AI for Healthcare",
+    "year": 2024,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 114,
+    "cite": "L.K. Yen, J. Wong, A.L.P. Chen, “Identifying Chinese Handwriting Characteristics for Detecting Children with Autism,” Proc. ACM/SIGAPP Symposium on Applied Computing",
+    "year": 2024,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 115,
+    "cite": "S.A. Thamrin, A.L.P. Chen, “Detection of Bipolar Disorder on Social Media Data Utilizing Biomedical, Clinical and Mental Health Domain Fine-Tuned Word Embeddings” Proc. IEEE International Conference on Healthcare Informatics 2023",
+    "year": 2024,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 116,
+    "cite": "Amarawan Pentrakan, Arbee L.P. Chen, “Data Cleaning in Medical Procurement Database: Performance Comparison of Data Mining Classification Algorithms for Tackling Missing Value,” Proc. International Conference on Research in Engineering, Technology and Science (ICRETS 2023)",
+    "year": 2023,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 117,
+    "cite": "Xunsheng Cai, Syauki Aulia Thamrin, Arbee L.P. Chen, “Graph-Enhanced Replication-Enabled Transformer for Drug Recommendation,” IEEE Big Data Conference/International Workshop on Big Data Analytics for Health and Medicine",
+    "year": 2023,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 118,
+    "cite": "S. Cao, S.A. Thamrin, A.L.P. Chen, “Improving the Quality of Public Transportation by Dynamically Adjusting the Bus Departure Time,” Proc. ACM/SIGAPP Symposium on Applied Computing 2021",
+    "year": 2023,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 119,
+    "cite": "H. Wijayanto, W. Wang, W.S. Ku, A.L.P. Chen, “LShape Partitioning: Parallel Skyline Query Processing using MapReduce,” Proc. IEEE International Conference on Data Engineering (invited poster paper)",
+    "year": 2021,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 120,
+    "cite": "H. Wijayanto, S.A. Thamrin, A.L.P. Chen, “Upgrading Products based on Existing Dominant Competitors,” Proc. Hawaii International Conference on System Sciences 2020",
+    "year": 2021,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 121,
+    "cite": "S.A. Thamrin, H. Wijayanto, A.L.P. Chen, “Finding Minimal Costs for Upgrading Products to be in Top-k,” International Conference on Information and Education Technology (accepted) 2019",
+    "year": 2020,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 122,
+    "cite": "Y.C. Huang, C.F. Chiang, A.L.P. Chen, “Predicting Depression Tendency based on Image, Text and Behavior Data from Instagram,” Proc. International Conference on Data Science, Technologies and Applications",
+    "year": 2019,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 123,
+    "cite": "P.H. Wu, J.L. Koh, A.L.P. Chen, “Event Detection for Exploring Emotional Upheavals of Depressive People,” Proc. ACM/SIGAPP Symposium on Applied Computing (Best Paper Award)",
+    "year": 2019,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 124,
+    "cite": "H. Yang, C.F. Chiang, A.L.P. Chen, “Discovering High Demanding Bus Routes Using Farecard Data,” Proc. IEEE International Conference on Big Data / International Workshop on Big Data for Intelligent Transportation Systems 2017",
+    "year": 2019,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 125,
+    "cite": "W.H. Lee, E.T. Wang, A.L.P. Chen, “Mining Accompanying Relationships between Diseases from Patient Records,” Proc. IEEE International Conference on Big Data / International Workshop on Big Data Analytic Technology for Bioinformatics and Health Informatics",
+    "year": 2017,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 126,
+    "cite": "W.Y. Chang, E.T. Wang, A.L.P. Chen, “A Data-driven Framework on Mining Relationships between Air Quality and Cancer Diseases,” Proc. International Conference on Data Science, Technology and Applications",
+    "year": 2017,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 127,
+    "cite": "C.C. Lu and A.L.P. Chen, “Finding the Shortest Path with User Requirements,” Proc. International Conference on Data Mining, Communications and Information Technology 2016",
+    "year": 2017,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 128,
+    "cite": "Y.C. Fan, Y.C. Chen, K.C. Tung, K.C. Wu, A.L.P. Chen, “A Framework for Enabling User Preference Profiling through Wi-Fi Logs,” Proc. IEEE International Conference on Data Engineering (invited poster paper)",
+    "year": 2016,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 129,
+    "cite": "K.C. Tung, E.T. Wang, A.L.P. Chen, “Mining Event Sequences from Social Media for Election Prediction,” Proc. Industrial Conference on Data Mining",
+    "year": 2016,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 130,
+    "cite": "Y.C. Chen, E.T. Wang, A.L.P. Chen, “Mining User Trajectories from Smartphone Data Considering Data Uncertainty,” Proc. International Conference on Big Data Analytics and Knowledge Discovery - DaWaK 2016 2015",
+    "year": 2016,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 131,
+    "cite": "Y.H. Chou, E.T. Wang, A.L.P. Chen, “Finding Maximal Quasi-Cliques Containing a Target Vertex in a Graph,” Proc. International Conference on Data Management Technologies and Applications",
+    "year": 2015,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 132,
+    "cite": "R.S. Jheng, E.T. Wang, A.L.P. Chen, “Determining Top-K Candidates by Reverse Constrained Skyline Queries,” Proc. International Conference on Data Management Technologies and Applications 2014",
+    "year": 2015,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 133,
+    "cite": "W.H. Tai, E.T. Wang, A.L.P. Chen, “On Continuous Spatial Skyline Queries over a Line Segment,” Proc. International Conference on Database and Expert Systems Applications",
+    "year": 2014,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 134,
+    "cite": "Y.W. Lin, E.T. Wang, C.F. Chiang, A.L.P. Chen, “Finding Targets with the Nearest Favor Neighbor and Farthest Disfavor Neighbor by a Skyline Query,” Proc. ACM Symposium on Applied Computing",
+    "year": 2014,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 135,
+    "cite": "C.W. Chang, Y.C. Fan, A.L.P. Chen, “On the Semantic Annotation of Daily Places: A Machine-Learning Approach,” Proc. International Workshop on Location and the Web at ACM International Conference on Information and Knowledge Management",
+    "year": 2014,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 136,
+    "cite": "J.L. Koh, C.J. Chiang, S.C. Chu, Y.C. Huang, S.C. Peng, S.H. Wang, T.Y. Liu, H.I. Hsiao, C. Lin, A.L.P. Chen, “A Graph Structure-based Asset Retrieval System,” Proc. International Computer Symposium 2013",
+    "year": 2014,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 137,
+    "cite": "C.J. Lin Wang, E.T. Wang, A.L.P. Chen, “Anonymization for Multiple Released Social Network Graphs,” Proc. Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "year": 2013,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 138,
+    "cite": "K.H. Juang, E.T Wang, C.F. Chiang, A.L.P. Chen, “Verification of k-Coverage on Query Line Segments,” Proc. International Database Engineering & Applications Symposium",
+    "year": 2013,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 139,
+    "cite": "C.C. Chen and A.L.P. Chen, “Efficient Processing of Skyline Queries by MapReduce,” Proc. Conference on Technologies and Applications of Artificial Intelligence 2012",
+    "year": 2013,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 140,
+    "cite": "Y.C. Fan, X. Liu, W.C. Lee, A.L.P. Chen, “Efficient Time Series Disaggregation for Non-intrusive Appliance Load Monitoring,” Proc. IEEE International Conference on Ubiquitous Intelligence and Computing",
+    "year": 2012,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 141,
+    "cite": "D.J. Li, E.T. Wang, Y.C. Tsai, A.L.P. Chen, ''On Continuous Top-k Similarity Joins,'' Proc. International Conference on Data Technologies and Applications",
+    "year": 2012,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 142,
+    "cite": "M.F. Tsai, C.W. Tzeng, A.L.P. Chen, “Discovering Leaders from Social Network by Action Cascade,” Proc. EuroSys Workshop on Social Network Systems",
+    "year": 2012,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 143,
+    "cite": "T.A. Yeh, E.T. Wang, A.L.P. Chen, “Finding Leaders with Maximum Spread of Influence through Social Networks,” Proc. International Computer Symposium 2011",
+    "year": 2012,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 144,
+    "cite": "W.C. Wang, E.T. Wang, A.L.P. Chen, “Dynamic Skylines Considering Range Queries,” Proc. International Conference on Database Systems for Advanced Applications 2010",
+    "year": 2011,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 145,
+    "cite": "C.Y. Lin, J.L. Koh, A.L.P. Chen, “A Better Strategy of Discovering Link-Pattern based Communities by Classical Clustering Methods,” Proc. Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "year": 2010,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 146,
+    "cite": "Y.C. Su, E.T. Wang, A.L.P. Chen, “Continuous Probabilistic Skyline Queries over Uncertain Data Streams,” Proc. International Conference on Database and Expert Systems Applications 2009",
+    "year": 2010,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 147,
+    "cite": "G.R. Lin, Y.C. Fan, E.T. Wang, T. Zou, A.L.P. Chen, “Energy-Efficient Sensor Data Acquisition based on Periodic Patterns,” Proc. International Conference on Parallel and Distributed Systems (EI)",
+    "year": 2009,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 148,
+    "cite": "Y.C. Fan and A.L.P. Chen, “An Approximation Algorithm for Optimizing Multiple Path Tracking Queries over Sensor Data Streams,” Proc. International Conference and Workshop on Database and Expert Systems Applications",
+    "year": 2009,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 149,
+    "cite": "B.S.E. Chung, W.C. Lee, A.L.P. Chen, “Processing Probabilistic Spatio-Temporal Range Queries over Moving Objects with Uncertainty,” Proc. International Conference on Extending Database Technologies 2008",
+    "year": 2009,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 150,
+    "cite": "B.S.E. Chung, W.C. Lee, A.L.P. Chen, “Efficient Processing of Probabilistic Spatio- Temporal Range Queries over Moving Objects,” Proc. ACM International Conference on Information and Knowledge Management",
+    "year": 2008,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 151,
+    "cite": "Y.C. Fan and A.L.P. Chen, “Efficient and Robust Sensor Data Aggregation using Linear Counting Sketches,” Proc. IEEE International Parallel and Distributed Processing Symposium",
+    "year": 2008,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 152,
+    "cite": "C.W. Cho, Y. Cheng, Y.H. Wu, and A.L.P. Chen, \"A Tree-Based Approach for Event Prediction Using Episode Rules over Event Streams,\" Proc. International Conference and Workshop on Database and Expert Systems Applications",
+    "year": 2008,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 153,
+    "cite": "T.Y. Lee, E.T. Wang, and A.L.P. Chen, \"Mining Serial Episode Rules with Time Lags over Multiple Data Streams,\" Proc. International Conference on Data Warehousing and Knowledge Discovery 2007",
+    "year": 2007,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 154,
+    "cite": "C.C. Lee, Y.H. Wu, and A.L.P. Chen, “Continuous Evaluation of Fastest Path Queries on Road Networks,” Proc. International Symposium on Spatial and Temporal Databases",
+    "year": 2007,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 155,
+    "cite": "A.L.P. Chen, C.S. Iliopoulos, S. Michalakopoulos, and M.S. Rahman, “Implementation of Algorithms to Classify Musical Texts according to Rhythms,” Proc. International Sound and Music Computing Conference",
+    "year": 2007,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 156,
+    "cite": "C.W. Cho, Y. Zheng, and A.L.P. Chen, “Continuously Matching Episode Rules for Predicting Future Events over Event Streams,” Proc. Joint International Conference on Asia-Pacific Web Conference and Web-Age Information Management Conference",
+    "year": 2007,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 157,
+    "cite": "Y.C. Su, Y.H. Wu, and A.L.P. Chen, “Monitoring Heterogeneous Nearest Neighbors for Moving Objects Considering Location-Independent Attributes,” Proc. International Conference on Database Systems for Advanced Applications 2006",
+    "year": 2007,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 158,
+    "cite": "M.C.E. Hsieh, Y.H. Wu and A.L.P. Chen, “Discovering Frequent Tree Patterns over Data Streams,” Proc. SIAM International Conference on Data Mining",
+    "year": 2006,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 159,
+    "cite": "C.H. Lin and A.L.P. Chen, “Approximate Video Search Based on Spatio-Temporal Information of Video Objects,” Proc. IEEE International Workshop on Multimedia Databases and Data Management/IEEE International Conference on Data Engineering",
+    "year": 2006,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 160,
+    "cite": "J.C. Chuang, C.W. Cho and A.L.P. Chen, “Similarity Search in Transaction Databases with a Two-Level Bounding Mechanism,” Proc. International Conference on Database Systems for Advanced Applications",
+    "year": 2006,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 161,
+    "cite": "T.C. Wu and A.L.P. Chen, “Maintaining Moving Sums over Data Streams,” Proc. International Conference on Advanced Data Mining and Applications 2005",
+    "year": 2006,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 162,
+    "cite": "C.W. Cho, Y.H. Wu and A.L.P. Chen, “Effective Database Transformation and Efficient Support Computation for Mining Sequential Patterns,” Proc. International Conference on Database Systems for Advanced Applications",
+    "year": 2005,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 163,
+    "cite": "N.H. Liu, Y.H. Wu and A.L.P. Chen, “An Efficient Approach to Extracting Approximate Repeating Patterns in Music Databases,” Proc. International Conference on Database Systems for Advanced Applications",
+    "year": 2005,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 164,
+    "cite": "C.H. Lin, D.Y. Chiu, Y.H. Wu and A.L.P. Chen, “Mining Frequent Itemsets from Data Streams with a Time-Sensitive Sliding Window,” Proc. SIAM International Conference on Data Mining",
+    "year": 2005,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 165,
+    "cite": "P.H. Weng and A.L.P. Chen, “Automatic Musical Form Analysis,” Proc. International Conference on Digital Archive Technologies 2004",
+    "year": 2005,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 166,
+    "cite": "D.Y. Chiu, Y.H. Wu and A.L.P. Chen, “An Efficient Algorithm for Mining Frequent Sequences by a New Strategy without Support Counting,” Proc. IEEE Data Engineering Conference",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 167,
+    "cite": "H.C. Chen, C.H. Lin and A.L.P. Chen, “Music Segmentation by Rhythmic Features and Melodic Shapes,” Proc. IEEE International Conference on Multimedia and Expo",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 168,
+    "cite": "G. Lee, C.Y. Chang and A.L.P Chen, “Hiding Sensitive Patterns in Association Rules Mining,” Proc. IEEE COMPSAC",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 169,
+    "cite": "J. L. Hsu, A.L.P. Chen, H.C. Chen, \"Finding Approximate Repeating Patterns from Sequence Data,\" Proc. International Symposium on Music Information Retrieval",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 170,
+    "cite": "Y.S. Tzeng, H.C. Chen and A.L.P. Chen, “A New Approach for Rating-Based Collaborative Music Recommendation,” Proc. Internet and Multimedia Systems and Applications",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 171,
+    "cite": "C.R. Lin, N.H. Liu, Y.H. Wu and A.L.P. Chen, “Music Classification Using Significant Repeating Patterns,” Proc. International Conference on Database Systems for Advanced Applications (SCI)",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 172,
+    "cite": "C.H. Lee, C.W. Cho, Y.H. Wu and A.L.P. Chen, “A Novel Representation of Sequence Data based on Structural Information for Effective Music Retrieval,” Proc. International Conference on Database Systems for Advanced Applications (SCI)",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 173,
+    "cite": "P.Y. Chen and A.L.P. Chen, “Video Retrieval Based on Motion Tracks of Moving Objects,” Proc. SPIE Storage and Retrieval Methods and Applications for Multimedia",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 174,
+    "cite": "M.H. Jian, C.H. Lin and A.L.P. Chen, “Perceptual Analysis for Music Segmentation,” Proc. SPIE Storage and Retrieval Methods and Applications for Multimedia 2003",
+    "year": 2004,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 175,
+    "cite": "W.W. Hsieh and A.L.P. Chen, “Constructing a Bowling Information System with Video Content Analysis,\" Proc. ACM Multimedia Database Workshop",
+    "year": 2003,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 176,
+    "cite": "N.H. Liu and A.L.P. Chen, “Efficient K-NN Search in Polyphonic Music Databases Using a Lower Bounding Mechanism,” Proc. ACM Multimedia Information Retrieval Workshop 2002",
+    "year": 2003,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 177,
+    "cite": "G. Lee, Y.N. Pan and A.L.P. Chen, \"Scheduling Real-Time Data Items in Multiple Channels and Multiple Receivers Environments,\" Proc. IEEE International Conference on Distributed Computing Systems",
+    "year": 2002,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 178,
+    "cite": "A.H.C. Lee, E.C.H. Lin and A.L.P. Chen, “A Semantic Model for Video Description and Retrieval,” Proc. IEEE Pacific-Rim Conference on Multimedia",
+    "year": 2002,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 179,
+    "cite": "J.L. Hsu, A.L.P. Chen and H.C. Chen, “The Effectiveness Study of Various Music Information Retrieval Approaches,” Proc. ACM International Conference on Information and Knowledge Management",
+    "year": 2002,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 180,
+    "cite": "C.W. Cho, Y.H. Wu, J. Liu and A.L.P. Chen, \"A Graph-based Approach to Mining Inter-transaction Association Rules,\" Proc. International Computer Symposium 2001",
+    "year": 2002,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 181,
+    "cite": "C.T. Hsu, Y.T. Wu and A.L.P. Chen, \"Content-Based Image Retrieval by Feature Point Matching,\" Proc. SPIE Conference on Storage and Retrieval for Media Databases",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 182,
+    "cite": "C.H. Lin and A.L.P. Chen, \"Motion Event Derivation and Query Language for Video Databases,\" Proc. SPIE Conference on Storage and Retrieval for Media Databases",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 183,
+    "cite": "Y.H. Wu, Y.C. Chen and A.L.P. Chen, \"Enabling Personalized Recommendation on the Web based on User Interests and Behaviors,\" Proc. IEEE International Workshop on Research Issues in Data Engineering (EI) (RIDE)",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 184,
+    "cite": "H.C. Chen and A.L.P. Chen, \"A music recommendation system based on music data grouping and user interests,\" Proc. ACM International Conference on Information and Knowledge Management",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 185,
+    "cite": "C.H. Hsu, G. Lee and A.L.P. Chen, \"A Near Optimal Algorithm for Generating Broadcast Programs on Multiple Channels,\" Proc. ACM International Conference on Information and Knowledge Management",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 186,
+    "cite": "J.L. Hsu and A.L.P. Chen, \"Building a Platform for Performance Study of Various Music Information Retrieval Approaches,\" Proc. International Symposium on Music Information Retrieval",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 187,
+    "cite": "J.H. Lin and A.L.P. Chen, \"Processing Concept Queries with Object Motions in Video Databases,\" Proc. IEEE International Conference on Image Processing",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 188,
+    "cite": "C.H. Hsu, G. Lee and A.L.P. Chen, \"Index and Data Allocation on Multiple Broadcast Channels,\" Proc. International Conference on Mobile Data Management",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 189,
+    "cite": "G. Lee, M.S. Yeh, S.C. Lo, and A.L.P. Chen, \"A Strategy for Efficient Access of Multiple Data Items in Mobile Environments,\" Proc. International Conference on Mobile Data Management 2000",
+    "year": 2001,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 190,
+    "cite": "A.L.P. Chen, M. Chang, J. Chen, J.L. Hsu, C.H. Hsu, and S.Y.S. Hua, \"Query by Music Segments: An Efficient Approach for Song Retrieval,\" Proc. IEEE International Conference on Multimedia and Expo",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 191,
+    "cite": "Y.H. Wu and A.L.P. Chen, \"Index Structures of User Profiles for Efficient Web Page Filtering Services,\" Proc. IEEE International Conference on Distributed Computing Systems (EI)",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 192,
+    "cite": "S.C. Lo and A.L.P. Chen, \"Optimal Index and Data Allocation in Multiple Broadcast Channels,\" Proc. IEEE International Conference on Data Engineering (EI)",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 193,
+    "cite": "W. Lee and A.L.P. Chen, \"Efficient Multi-Feature Index Structures for Music Data Retrieval,\" Proc. SPIE Conference on Storage and Retrieval for Image and Video Databases",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 194,
+    "cite": "C.Y. Tsai, A.L.P. Chen and K. Essig, \"Efficient Image Retrieval Approaches for Different Similarity Requirements,\" Proc. SPIE Conference on Storage and Retrieval for Image and Video Databases",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 195,
+    "cite": "A.L.P. Chen, \"Music Representation, Indexing and Retrieval at NTHU,\" Proc. International Symposium on Music Information Retrieval 1999",
+    "year": 2000,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 196,
+    "cite": "C.C. Liu, J.L. Hsu and A.L.P. Chen, \"An Approximate String Matching Algorithm for Content-Based Music Data Retrieval,\" Proc. IEEE International Conference on Multimedia Computing and Systems (EI)",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 197,
+    "cite": "J.L. Koh, C.S. Lee and A.L.P. Chen, \"Semantic Video Model for Content- Based Retrieval,\" Proc. IEEE International Conference on Multimedia Computing and Systems (EI)",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 198,
+    "cite": "C.H. Lin, A.L.P. Chen, T.C.T. Kuo and C.Y. Tsay, \"An Efficient Approach on Content-Based Image Retrieval with DCT Coefficient Indexes,\" Proc. Symposium on Advanced Database Systems for Integration of Media and User Environments (invited speech and paper)",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 199,
+    "cite": "C.C. Liu, J.L. Hsu and A.L.P. Chen, \"Efficient Theme and Non-Trivial Repeating Pattern Discovering in Music Databases,\" Proc. IEEE International Conference on Data Engineering (EI)",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 200,
+    "cite": "K.L. Lee, G. Lee and A.L.P. Chen, \"Efficient Graph-Based Algorithms for Discovering and Maintaining Knowledge in Large Databases,\" Proc. Pacific- Asia Conference on Knowledge Discovery and Data Mining",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 201,
+    "cite": "P.S.M. Tsai, C.C. Lee and A.L.P. Chen, \"An Efficient Approach for Incremental Association Rule Mining,\" Proc. Pacific-Asia Conference on Knowledge Discovery and Data Mining 1998",
+    "year": 1999,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 202,
+    "cite": "J.C.C. Chen and A.L.P. Chen, \"Query by Rhythm: An Approach for Song Retrieval in Music Databases,\" Proc. IEEE Eighth International Workshop on Research Issues in Data Engineering: Continuous-Media Databases and Applications (EI) (RIDE)",
+    "year": 1998,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 203,
+    "cite": "J.L. Hsu, C.C. Liu and A.L.P. Chen, \"Efficient Repeating Pattern Finding in music Databases,\" Proc. ACM Seventh International Conference on Information and Knowledge Management (EI) (CIKM)",
+    "year": 1998,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 204,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, \"Content-based Query Processing and Approximation for Video Databases,\" Proc. IEEE Knowledge and Data Engineering Exchange Workshop",
+    "year": 1998,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 205,
+    "cite": "C.G. Chen, A.L.P. Chen and W.C. Liao, \"Query Interface and Query Processing for Mobile Information Systems,\" Proc. 4th Workshop on Real- Time and Media Systems 1997",
+    "year": 1998,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 206,
+    "cite": "T.T.Y. Wai and A.L.P. Chen, \"Retrieving Video Data via Motion Tracks of Content Symbols,\" Proc. ACM Sixth International Conference on Information and Knowledge Management (EI) (CIKM)",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 207,
+    "cite": "J.L. Koh, A.L.P. Chen, P.C.M. Chang, and J.C.C. Chen, \"A Query Language and Interface for Integrated Media and Alphanumeric Database Systems,\" Lecture Notes in Computer Science: Database and Expert Systems Applications, Springer, pp. 508-518",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 208,
+    "cite": "S.J. Yen and A.L.P. Chen, \"An Efficient Data Mining Technique for Discovering Interesting Association Rules\" Proc. International Workshop on Database and Expert Systems Applications (EI) (DEXA), IEEE Computer Society",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 209,
+    "cite": "W.Y. Lee and A.L.P. Chen, \"Data Management and Query Processing in Mobile Environments,\" Proc. International Symposium on Information Systems and Technologies for Network Society (invited speech and paper)",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 210,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, \"Querying Video Databases by Key Frame Matching,\" Proc. International Symposium on Multimedia Information Processing",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 211,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, \"An Index Tool for Content-Based Video Data Retrieval,\" Proc. Multimedia Technology and Applications Symposium",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 212,
+    "cite": "T.C.T. Kuo, G.S. Lee and A.L.P. Chen, \"The Design and Implementation of a Video Query Processing and Presentation System,\" Proc. 3rd Workshop on Real-Time and Media Systems",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 213,
+    "cite": "S.C. Lo, A.L.P. Chen, C.F. Tsai, and C.H. Tsai, \"A Region-Based Location Strategy for PCS Systems,\" Proc. 3rd Workshop on Mobile Computing",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 214,
+    "cite": "D.L. Pan, A.L.P. Chen, S.C. Lo, and Y.S. Lin, \"VPCA: An Efficient Virtual Architecture for PCS Systems,\" Proc. 3rd Workshop on Mobile Computing",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 215,
+    "cite": "W.Y. Lee and A.L.P. Chen, \"Managing Replicate Data in Ubiquitous Information Systems,\" Proc. 3rd Workshop on Mobile Computing 1996",
+    "year": 1997,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 216,
+    "cite": "J.L. Koh and A.L.P. Chen, \"Query Execution Strategies for Missing Data in Distributed Heterogeneous Object Databases,\" Proc. IEEE International Conference on Distributed Computing Systems (EI)",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 217,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, \"A Content-Based Query Language for Video Databases,\" Proc. IEEE International Conference on Multimedia Computing and Systems (EI)",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 218,
+    "cite": "S.J. Yen and A.L.P. Chen, \"An Efficient Approach to Discovering Knowledge from Large Databases,\" Proc. IEEE/ACM International Conference on Parallel and Distributed Information Systems (PDIS)",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 219,
+    "cite": "T.C. Chou, A.L.P. Chen and C.C. Liu, \"Music Databases: Indexing Techniques and Implementation,\" Proc. IEEE International Workshop on Multimedia Data Base Management Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 220,
+    "cite": "T.C.T. Kuo, Y.B. Lin and A.L.P. Chen, \"Efficient Shot Change Detection on Compressed Video Data,\" Proc. IEEE International Workshop on Multimedia Data Base Management Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 221,
+    "cite": "T.C.T. Kuo and A.L.P. Chen, \"Indexing, Query Interface and Query Processing for Venus: A Video Database System,\" Proc. International Symposium on Cooperative Database Systems for Advanced Applications (invited speech and paper)",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 222,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, \"An Approach to Resource Discovery in Distributed Autonomous Databases,\" Proc. International Conference on Information Networking (invited paper)",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 223,
+    "cite": "Y.H. Wu, Y.H. Chen and A.L.P. Chen, \"Querying and Browsing Resources in Internet,\" Proc. International Conference on Distributed Systems, Software Engineering, and Database Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 224,
+    "cite": "C.S. Chang and A.L.P. Chen, \"Managing Global Constraints in Multidatabase Systems,\" Proc. International Conference on Distributed Systems, Software Engineering, and Database Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 225,
+    "cite": "J.H. Lin and A.L.P. Chen, \"An Efficient Query Processing Algorithm on Object Databases with Multivalued Attributes,\" Proc. International Conference on Distributed Systems, Software Engineering, and Database Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 226,
+    "cite": "C.C. Liu and A.L.P. Chen, \"Modeling and Query Processing of Distributed Multimedia Databases,\" Proc. 2nd Workshop on Real-Time and Media Systems",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 227,
+    "cite": "C.C. Liu and A.L.P. Chen, \"Extending Object Data Model for Representing Spatial-Temporal Relationships and Constraints of Multimedia Data,\" Proc. 7th Workshop on Object-Oriented Technology and Applications",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 228,
+    "cite": "J.L. Koh and A.L.P. Chen, \"Schema Integration and Query Processing of Object-Oriented Multidatabase Systems,\" Proc. 7th Workshop on Object- Oriented Technology and Applications",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 229,
+    "cite": "Y.H. Wu and A.L.P Chen, \"An Object-Oriented Resource Query System in Internet\" Proc. 7th Workshop on Object-Oriented Technology and Applications 1995",
+    "year": 1996,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 230,
+    "cite": "J.L. Koh and A.L.P. Chen, \"A Mapping Strategy for Querying Multiple Object Databases with a Global Object Schema,\" Proc. IEEE International Workshop on Research Issues on Data Engineering: Distributed Object Management (RIDE)",
+    "year": 1995,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 231,
+    "cite": "C.C. Liu and A.L.P. Chen, \"Parallel Query Processing in Distributed Object Database Systems by Query Packets,\" Proc. IEEE International Workshop on Research Issues on Data Engineering: Distributed Object Management (EI) (RIDE)",
+    "year": 1995,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 232,
+    "cite": "S.J. Yen and A.L.P. Chen, \"An Efficient Algorithm for Deriving Compact Rules from Databases,\" Proc. International Conference on Database Systems for Advanced Applications (DASFAA)",
+    "year": 1995,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 233,
+    "cite": "A.L.P. Chen, C.C. Liu, K.L. Lee, C.C. Chen, \"The Design of a Video Database System,\" Proc. 1st Workshop on Real-Time and Media Systems",
+    "year": 1995,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 234,
+    "cite": "Y.H. Wu, P.S.M. Tsai, S.C. Lo, Y.H. Chen, J.L. Hsu, A.L.P. Chen, H.L. Liu, \"Performance Analysis for Heterogeneous Distributed Database Systems,\" Proc. National Computer Symposium 1994",
+    "year": 1995,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 235,
+    "cite": "S.J. Yen and A.L.P. Chen, \"Neighborhood/Conceptual Query Answering with Imprecise/Incomplete Data,\" Lecture Notes in Computer Science: Entity-Relationship Approaches (SCI), Springer-Verlag, pp. 149-165",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 236,
+    "cite": "J.L. Koh and A.L.P. Chen, \"Integration of Heterogeneous Object Schemas,\" Lecture Notes in Computer Science: Entity-Relationship Approaches (SCI), Springer-Verlag, pp. 297-314",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 237,
+    "cite": "C.C. Liu and A.L.P. Chen, \"Object View Derivation and Object Query Transformation,\" Proc. IEEE COMPSAC",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 238,
+    "cite": "A.N.J. Wu and A.L.P. Chen, \"Improving Execution Concurrency for Long- Duration Database Transactions,\" Proc. IEEE COMPSAC",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 239,
+    "cite": "J.S. Chiu and A.L.P. Chen, \"A Sound and Complete Extended Relational Algebra for Exclusive Disjunctive Data,\" The VLDB'94 Poster Paper Collection",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 240,
+    "cite": "C.S. Chang and A.L.P. Chen, \"Determining Probabilities for Probabilistic Partial Values,\" Proc. International Conference on Data and Knowledge Systems for Manufacturing and Engineering",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 241,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, \"Entity Join Optimization in Multidatabase Systems,\" Proc. International Conference on Management of Data",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 242,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, \"Concept Hierarchies for Relational Multidatabase Queries,\" Proc. International Conference on Management of Data",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 243,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, \"Optimizing Entity Join Queries by Extended Semijoins in a Wide Area Multidatabase Environment,\" Proc. International Conference on Parallel and Distributed Systems 1993",
+    "year": 1994,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 244,
+    "cite": "P.S.M. Tsai and A.L.P. Chen, \"Querying Uncertain Data in Heterogeneous Databases,\" Proc. IEEE International Workshop on Research Issues on Data Engineering: Interoperability in Multidatabase Systems (RIDE) 1992",
+    "year": 1993,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 245,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, \"A Probabilistic Approach to Query Processing in Heterogeneous Database Systems,\" Proc. IEEE International Workshop on Research Issues on Data Engineering: Transaction and Query Processing (RIDE)",
+    "year": 1992,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 246,
+    "cite": "T.S. Chen, A.L.P. Chen, W.P. Yang, \"Optimizing Distributed Query Processing by Hash-Semijoins,\" Proc. IEEE Workshop on Future Trends in Distributed Computing Systems",
+    "year": 1992,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 247,
+    "cite": "A.L.P. Chen, K.F. Chieng, C.T. Kuo, J.D. Lee, S.C. Su, \"Improving the Performance of a Distributed Computing System through Inconsistent Caches,\" roc. IEEE Workshop on Future Trends in Distributed Computing Systems",
+    "year": 1992,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 248,
+    "cite": "E.J.D. Lee and A.L.P. Chen, \"Performance Analysis for Managing Inconsistent Caches in Client/Server Architecture,\" Proc. International Conference on Parallel and Distributed Systems",
+    "year": 1992,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 249,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, \"Generalizing the Division Operation on Indefinite Databases,\" Future Databases, Chen, Kambayashi, Sacks- Davis (Eds.), World Scientific 1991",
+    "year": 1992,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 250,
+    "cite": "C. Wang, V.O.K. Li, A.L.P. Chen, \"Distributed Query Optimization by One- Shot Fixed-Precision Semi-Join Execution,\" Proc. IEEE International Conference on Data Engineering (EI)",
+    "year": 1991,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 251,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, \"Extending the E-R Concepts to Capture Natural Language Semantics for Database Access,\" Proc. IEEE COMPSAC",
+    "year": 1991,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 252,
+    "cite": "F.S.C. Tseng, A.L.P. Chen, W.P. Yang, \"A Probabilistic Approach to Resolving the Interoperability Problems in Heterogeneous Database Systems,\" Proc. National Computer Symposium 1990",
+    "year": 1991,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 253,
+    "cite": "A.L.P. Chen, 1990, \"A Localized Approach to Distributed Query Processing,\" Lecture Notes in Computer Science: Advances in Database Technology (SCI), Springer-Verlag, pp. 188-202",
+    "year": 1990,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 254,
+    "cite": "A.L.P. Chen, \"Outerjoin Optimization in Multidatabase Systems,\" Proc. IEEE International Symposium on Databases in Parallel and Distributed Systems 1988",
+    "year": 1990,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 255,
+    "cite": "A.L.P. Chen, E.J. Cameron, G. Shuttleworth, E.C. Anderson, \"A Simulation Approach for Network Operations Performance Studies,\" Proc. IEEE COMPSAC 1987",
+    "year": 1988,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 256,
+    "cite": "A.L.P. Chen, E.C. Anderson, M.Y. Lai, \"Simulation Modeling of Data Management for Network Operations,\" Proc. Bellcore Database Symposium 1986",
+    "year": 1987,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 257,
+    "cite": "M. Templeton, D. Brill, A.L.P. Chen, S. Dao, E. Lund, \"Mermaid - Experiences with Network operation,\" Proc. IEEE International Conference on Data Engineering (EI)",
+    "year": 1986,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 258,
+    "cite": "C. Yu, L. Lilien, K. Guh, M. Templeton, D. Brill, A.L.P. Chen, \"Adaptive Techniques for Distributed Query Optimization,\" Proc. IEEE International Conference on Data Engineering (EI)",
+    "year": 1986,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 259,
+    "cite": "C. Yu, K. Guh, D. Brill, A.L.P. Chen, \"Partitioning Relation for Parallel Processing in Fast Local Networks,\" Proc. IEEE International Conference on Parallel Processing (EI)",
+    "year": 1986,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 260,
+    "cite": "A.L.P. Chen, D. Brill, M. Templeton, C. Yu, \"Distributed Query Processing in Mermaid: A Frontend System for Multiple Databases,\" Proc. International Computer Symposium 1984",
+    "year": 1986,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 261,
+    "cite": "A.L.P. Chen and V.O.K. Li, \"Optimizing Star Queries in a Distributed Database System,\" Proc. International Conference on Very Large Data Bases (VLDB)",
+    "year": 1984,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 262,
+    "cite": "A.L.P. Chen and V.O.K. Li, \"Deriving Optimal Semijoin Programs for Distributed Query Processing,\" Proc. IEEE INFOCOM",
+    "year": 1984,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 263,
+    "cite": "A.L.P. Chen and V.O.K. Li, \"Improving Semijoin Programs for Distributed Query Processing,\" Proc. IEEE COMPSAC",
+    "year": 1984,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 264,
+    "cite": "A.L.P. Chen and V.O.K. Li, \"Performance Analysis for Distributed Query Optimization Algorithms,\" Proc. International Computer Symposium 1983",
+    "year": 1984,
+    "type": "Conference Papers"
+  },
+  {
+    "id": 265,
+    "cite": "A.L.P. Chen and V.O.K. Li, \"Properties of Optimal Semijoin Programs for Distributed Query Processing,\" Proc. IEEE COMPSAC",
+    "year": 1983,
+    "type": "Conference Papers"
+  }
+]

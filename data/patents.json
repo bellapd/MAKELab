@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "title": "Wireless Sensing System and Method Thereof",
+      "patent_numbers": [
+        "US Patent (Patent No. US8301655 B2)",
+        "ROC Patent (Patent No. I456417)",
+        "PRC Patent (Patent No. ZL200810188603.3)"
+      ],
+      "dates": [
+        "10/30/2012",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Wireless Sensor Network and Data Sensing Method Thereof",
+      "patent_numbers": [
+        "US Patent (Patent No. US8289150 B2)",
+        "Japan Patent (Patent No. 5422270)",
+        "ROC Patent (I395151)"
+      ],
+      "dates": [
+        "10/16/2012",
+        "11/29/2013",
+        "5/1/2013-12/4/2028"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Systems and Methods for Discovering Frequently Accessed Subtrees",
+      "patent_numbers": [
+        "US Patent (Patent No. US7599946 B2)"
+      ],
+      "dates": [
+        "10/6/2009"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Method for Processing Multiple Continuous Top-k Queries",
+      "patent_numbers": [
+        "US Patent (Patent No. US7761528 B2)"
+      ],
+      "dates": [
+        "10/11/2006–11/24/2027"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Efficient Shot Change Detection on Compressed Video Data",
+      "patent_numbers": [
+        "US Patent 5900919"
+      ],
+      "dates": [
+        "5/4/1999"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Video Database Indexing and Query Method and System",
+      "patent_numbers": [
+        "US Patent 5819286"
+      ],
+      "dates": [
+        "10/6/1998"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Methods for Efficiently discovering Repeated Patterns in a Music Database",
+      "patent_numbers": [
+        "ROC Patent 134411"
+      ],
+      "dates": [
+        "90/5/16–107/10/8"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Communications Service Systems and Methods for Location Registration",
+      "patent_numbers": [
+        "ROC Patent 117149"
+      ],
+      "dates": [
+        "89/6/21–107/10/8"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Methods and Systems for Indexing and Querying Video Databases",
+      "patent_numbers": [
+        "ROC Patent 090454"
+      ],
+      "dates": [
+        "86/10/1–105/4/11"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Methods for Detecting Digital Data",
+      "patent_numbers": [
+        "ROC Patent 086436"
+      ],
+      "dates": [
+        "86/4/21–105/8/7"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Methods and Systems for Handling Update, Deletion and Insertion in Multiple Databases",
+      "patent_numbers": [
+        "ROC Patent 071141"
+      ],
+      "dates": [
+        "84/3/21–103/7/25"
+      ]
+    }
+  ]
+  
