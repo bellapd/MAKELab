@@ -28,10 +28,10 @@ export default function HomePage() {
           <div className="grid md:grid-cols-5 gap-12 items-start">
             <div className="md:col-span-2">
               <Image
-                src="alp.jpg"
+                src="prof.jpeg"
                 alt="Arbee L.P. Chen"
-                width={320}
-                height={400}
+                width={220}
+                height={300}
                 className="rounded-2xl shadow-2xl w-full"
               />
             </div>
