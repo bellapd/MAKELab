@@ -15,7 +15,7 @@ export default function HomePage() {
           <h1 className="text-6xl font-light mb-8 text-gray-900">
             Welcome to{" "}
             <span className="text-black-900 font-bold">
-              MAKELab
+              MAKE Lab
             </span>
           </h1>
           <h2 className="text-4xl text-gray-500 max-w-2xl mx-auto leading-relaxed">
@@ -57,7 +57,8 @@ export default function HomePage() {
                   <h3 className="text-lg font-semibold text-gray-900 mb-3 border-l-4 border-red-500 pl-4">
                     Current Position
                   </h3>
-                  <p className="text-gray-600 pl-4">Professor of Department of Computer Science, National Tsing Hua University</p>
+                  <p className="text-gray-600 pl-4">Professor of Department of Computer Science, National Tsing Hua University by Joint Appointment</p> <br/>
+                  <p className="text-gray-600 pl-4">Chair Professor of Department of Computer Science and Information Engineering/Vice President/Dean of College of Information and Electrical Engineering, Asia University</p>
                 </div>
 
                 <div>
@@ -65,9 +66,9 @@ export default function HomePage() {
                     Research Focus
                   </h3>
                   <div className="flex flex-wrap gap-3 pl-4">
-                    <Badge className="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2">Big Data Analytics</Badge>
-                    <Badge className="bg-red-500 hover:bg-red-600 text-white px-4 py-2">Deep Learning</Badge>
-                    <Badge className="bg-green-500 hover:bg-green-600 text-white px-4 py-2">Health Informatics</Badge>
+                    <Badge className="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2">Big Data Analytics (巨量資料分析)</Badge>
+                    <Badge className="bg-red-500 hover:bg-red-600 text-white px-4 py-2">Deep Learning (深度學習)</Badge>
+                    <Badge className="bg-green-500 hover:bg-green-600 text-white px-4 py-2">Health Informatics (健康資訊學)</Badge>
                   </div>
                 </div>
 
@@ -92,7 +93,7 @@ export default function HomePage() {
             <div className="space-y-4">
               <div className="border-l-4 border-orange-500 pl-6 py-2">
                 <h4 className="font-semibold text-gray-900">National Tsing Hua University</h4>
-                <p className="text-gray-600">Professor of Department of Computer Science <br /> 
+                <p className="text-gray-600">Professor of Department of Computer Science by Joint Appointment<br /> 
                   Director of Computer and Communications Center</p>
               </div>
               <div className="border-l-4 border-red-500 pl-6 py-2">
@@ -104,12 +105,12 @@ export default function HomePage() {
             </div>
             <div className="space-y-4">
               <div className="border-l-4 border-green-500 pl-6 py-2">
-                <h4 className="font-semibold text-gray-900">Academia Sinica</h4>
-                <p className="text-gray-600">Researcher (Joint Appointment), Research Center for Information Technology Innovation</p>
+                <h4 className="font-semibold text-gray-900">Asia University</h4>
+                <p className="text-gray-600">Chair Professor of Department of Computer Science and Information Engineering/Vice President/Dean of College of Information and Electrical Engineering</p>
               </div>
               <div className="border-l-4 border-blue-500 pl-6 py-2">
-                <h4 className="font-semibold text-gray-900">National Science Council</h4>
-                <p className="text-gray-600">Visiting Specialist (at Department of Computer Science, National Tsing Hua University)</p>
+                <h4 className="font-semibold text-gray-900">Academia Sinica</h4>
+                <p className="text-gray-600">Researcher (Joint Appointment), Research Center for Information Technology Innovation</p>
               </div>
             </div>
             <div className="space-y-4">
@@ -117,10 +118,7 @@ export default function HomePage() {
                 <h4 className="font-semibold text-gray-900">Bell Communications Research, USA</h4>
                 <p className="text-gray-600">Member of Technical Staff</p>
               </div>
-              <div className="border-l-4 border-blue-500 pl-6 py-2">
-                <h4 className="font-semibold text-gray-900">Polytechnic University, New York, USA</h4>
-                <p className="text-gray-600">Adjunct Associate Professor, Electrical and Computer Engineering</p>
-              </div>
+             
             </div>
             <div className="space-y-4">
               <div className="border-l-4 border-red-500 pl-6 py-2">
@@ -142,8 +140,8 @@ export default function HomePage() {
                   key={academic.id} 
                   value={`item-${academic.id}`} 
                 >
-                  <div className="font-semibold text-lg">{academic.university}</div>
-                  <p>{academic.location} - {academic.department}</p>
+                  <div className="font-semibold text-lg">{academic.university} ({academic.location})</div>
+                  <p>{academic.department}</p>
                 </AccordionItem>
               ))}
               </Accordion>
