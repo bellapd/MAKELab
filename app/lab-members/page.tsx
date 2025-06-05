@@ -38,6 +38,13 @@ const currentStudents = [
     email: "belladirgo@gapp.nthu.edu.tw",
     image: "/02.01-5x5.jpg",
   },
+  {
+    name: "吳花瑜",
+    status: "Master",
+    department: "Institute of Information Systems and Applications",
+    email: "vivian989370@gmail.com",
+    image: "/vivian.jpg",
+  }
 ]
 
 const alumniData = [
