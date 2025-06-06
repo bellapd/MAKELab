@@ -44,6 +44,13 @@ const currentStudents = [
     department: "Institute of Information Systems and Applications",
     email: "vivian989370@gmail.com",
     image: "/vivian.jpg",
+  },
+  {
+    name: "陳威宏",
+    status: "Master",
+    department: "Department of Computer Science",
+    email:"vincentb0223@gmail.com",
+    image:"/陳威宏.png"
   }
 ]
 
