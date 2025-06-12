@@ -2,73 +2,73 @@
     {
       "id": 1,
       "award": "Best Paper Award",
-      "conference": "2019 ACM/SIGAPP Symposium on Applied Computing",
+      "organization": "2019 ACM/SIGAPP Symposium on Applied Computing",
       "year": "2019"
     },
     {
       "id": 2,
       "award": "Master Thesis Supervision Award",
-      "conference": "Institute of Information & Computing Machinery",
+      "organization": "Institute of Information & Computing Machinery",
       "year": "2014/2015"
     },
     {
       "id": 3,
       "award": "Best Dissertation Supervision Award",
-      "conference": "Taiwan Institute of Electrical and Electronic Engineering",
+      "organization": "Taiwan Institute of Electrical and Electronic Engineering",
       "year": "2011"
     },
     {
       "id": 4,
       "award": "Master Thesis Supervision Award",
-      "conference": "The Chinese Institute of Electrical Engineering",
+      "organization": "The Chinese Institute of Electrical Engineering",
       "year": "2010"
     },
     {
       "id": 5,
       "award": "Distinguished Research Fellow Award",
-      "conference": "National Science Council",
+      "organization": "National Science Council",
       "year": "2008"
     },
     {
       "id": 6,
       "award": "Distinguished Engineering Professor Award",
-      "conference": "The Chinese Institute of Engineers",
+      "organization": "The Chinese Institute of Engineers",
       "year": "2006"
     },
     {
       "id": 7,
       "award": "Research Fellow Award",
-      "conference": "National Science Council",
+      "organization": "National Science Council",
       "year": "2002-2005/2005-2008"
     },
     {
       "id": 8,
       "award": "Who’s Who in the Republic of China",
-      "conference": "Government Information Office, Executive Yuan",
+      "organization": "Government Information Office, Executive Yuan",
       "year": "2001"
     },
     {
       "id": 9,
       "award": "Distinguished Research Award",
-      "conference": "National Science Council",
+      "organization": "National Science Council",
       "year": "1996-1998/1998-2000/2000-2002"
     },
     {
       "id": 10,
       "award": "Best Dissertation Supervision Award",
-      "conference": "Institute of Information & Computing Machinery",
+      "organization": "Institute of Information & Computing Machinery",
       "year": "1999/2000/2001"
     },
     {
       "id": 11,
       "award": "College Student’s Research and Invention Supervision Award",
-      "conference": "National Science Council",
+      "organization": "National Science Council",
       "year": "1996"
     },
     {
       "id": 12,
       "award": "Best Dissertation Supervision Award",
-      "conference": "Acer Inc.",
+      "organization": "Acer Inc.",
       "year": "1993"
     }
   ]

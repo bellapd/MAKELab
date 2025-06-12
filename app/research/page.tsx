@@ -114,47 +114,48 @@ export default function PublicationListPage() {
   )
 
   return (
-    <div className="min-h-screen bg-white mx-auto px-6 py-26 pt-52">
-      <div className="max-w-7xl mx-auto px-4 py-3">
+    <div className="min-h-screen bg-white px-4 sm:px-6 lg:px-8 pt-40">
+      <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold mb-8 text-black">
+          <h1 className="text-4xl sm:text-5xl font-bold mb-4 text-black">
             Publications
           </h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+          <p className="text-base sm:text-xl text-gray-600 max-w-3xl mx-auto">
             Explore the full list of publications from Professor Arbee L.P. Chen
           </p>
         </div>
 
         {/* Search and Filter */}
-        <div className="mb-8 flex flex-col md:flex-row gap-4 justify-between">
-          <div className="relative w-full md:w-1/3">
+        <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <div className="relative w-full sm:w-1/2 md:w-1/3 max-w-sm">
             <Search
               className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
               size={18}
             />
             <Input
               placeholder="Search citations..."
-              className="pl-10"
+              className="pl-10 h-10 text-sm"
               value={searchTerm}
               onChange={(e) => {
                 setSearchTerm(e.target.value);
-                setCurrentPage(1); // reset page on search
+                setCurrentPage(1);
               }}
             />
           </div>
-          <div className="flex gap-2 flex-wrap">
+
+          <div className="flex flex-wrap gap-2">
             {categories.map((category) => (
               <Badge
                 key={category}
-                className={`cursor-pointer px-3 py-1 ${
+                className={`cursor-pointer text-sm px-3 py-1.5 rounded-md ${
                   selectedCategory === category
                     ? "bg-orange-500 hover:bg-orange-600 text-white"
                     : "bg-gray-100 hover:bg-gray-200 text-gray-800"
                 }`}
                 onClick={() => {
                   setSelectedCategory(category);
-                  setCurrentPage(1); // reset page on filter change
+                  setCurrentPage(1);
                 }}
               >
                 {category}
@@ -166,112 +167,109 @@ export default function PublicationListPage() {
         {/* Publications Table */}
         <Card className="shadow-sm border border-gray-200">
           <CardContent className="p-0">
-            <Table>
-              <TableHeader>
-                <TableRow className="bg-gray-50 hover:bg-gray-50">
-                  <TableHead
-                    className="w-[60px]"
-                    onClick={() => handleSort("id")}
-                  >
-                    ID
-                    {sortConfig.key === "id" && (
-                      <span className="ml-1">
-                        {sortConfig.direction === "asc" ? (
+            <div className="w-full overflow-x-auto">
+              <Table>
+                <TableHeader>
+                  <TableRow className="bg-gray-50">
+                    <TableHead
+                      className="min-w-[50px] py-2 cursor-pointer"
+                      onClick={() => handleSort("id")}
+                    >
+                      ID{" "}
+                      {sortConfig.key === "id" &&
+                        (sortConfig.direction === "asc" ? (
                           <ChevronUp size={16} />
                         ) : (
                           <ChevronDown size={16} />
-                        )}
-                      </span>
-                    )}
-                  </TableHead>
-                  <TableHead onClick={() => handleSort("cite")}>
-                    Citation
-                    {sortConfig.key === "cite" && (
-                      <span className="ml-1">
-                        {sortConfig.direction === "asc" ? (
+                        ))}
+                    </TableHead>
+                    <TableHead
+                      className="min-w-[300px] py-2 cursor-pointer"
+                      onClick={() => handleSort("cite")}
+                    >
+                      Citation{" "}
+                      {sortConfig.key === "cite" &&
+                        (sortConfig.direction === "asc" ? (
                           <ChevronUp size={16} />
                         ) : (
                           <ChevronDown size={16} />
-                        )}
-                      </span>
-                    )}
-                  </TableHead>
-                  <TableHead
-                    className="w-[100px]"
-                    onClick={() => handleSort("year")}
-                  >
-                    Year
-                    {sortConfig.key === "year" && (
-                      <span className="ml-1">
-                        {sortConfig.direction === "asc" ? (
+                        ))}
+                    </TableHead>
+                    <TableHead
+                      className="min-w-[80px] py-2 cursor-pointer"
+                      onClick={() => handleSort("year")}
+                    >
+                      Year{" "}
+                      {sortConfig.key === "year" &&
+                        (sortConfig.direction === "asc" ? (
                           <ChevronUp size={16} />
                         ) : (
                           <ChevronDown size={16} />
-                        )}
-                      </span>
-                    )}
-                  </TableHead>
-                  <TableHead
-                    className="w-[250px]"
-                    onClick={() => handleSort("type")}
-                  >
-                    Type
-                    {sortConfig.key === "type" && (
-                      <span className="ml-1">
-                        {sortConfig.direction === "asc" ? (
+                        ))}
+                    </TableHead>
+                    <TableHead
+                      className="min-w-[200px] py-2 cursor-pointer"
+                      onClick={() => handleSort("type")}
+                    >
+                      Type{" "}
+                      {sortConfig.key === "type" &&
+                        (sortConfig.direction === "asc" ? (
                           <ChevronUp size={16} />
                         ) : (
                           <ChevronDown size={16} />
-                        )}
-                      </span>
-                    )}
-                  </TableHead>
-                </TableRow>
-              </TableHeader>
-              <TableBody>
-                {currentPageData.length > 0 ? (
-                  currentPageData.map((pub) => (
-                    <TableRow key={pub.id}>
-                      <TableCell className="font-medium">{pub.id}</TableCell>
-                      <TableCell className="whitespace-normal">
-                        {pub.cite}
-                      </TableCell>
-                      <TableCell>{pub.year ?? "N/A"}</TableCell>
-                      <TableCell>
-                        <Badge
-                          className={
-                            pub.type === "Journal Papers"
-                              ? "bg-blue-100 text-blue-800"
-                              : pub.type ===
-                                "Invited Articles, Book Chapters, and Edited Books"
-                              ? "bg-green-100 text-green-800"
-                              : pub.type === "Conference Papers"
-                              ? "bg-purple-100 text-purple-800"
-                              : "bg-gray-100 text-gray-800"
-                          }
-                        >
-                          {pub.type}
-                        </Badge>
+                        ))}
+                    </TableHead>
+                  </TableRow>
+                </TableHeader>
+                <TableBody>
+                  {currentPageData.length > 0 ? (
+                    currentPageData.map((pub) => (
+                      <TableRow key={pub.id}>
+                        <TableCell className="py-2 font-medium">
+                          {pub.id}
+                        </TableCell>
+                        <TableCell className="py-2 whitespace-normal text-sm">
+                          {pub.cite}
+                        </TableCell>
+                        <TableCell className="py-2 text-sm">
+                          {pub.year ?? "N/A"}
+                        </TableCell>
+                        <TableCell className="py-2">
+                          <Badge
+                            className={`text-xs px-2.5 py-1 rounded ${
+                              pub.type === "Journal Papers"
+                                ? "bg-blue-100 text-blue-800"
+                                : pub.type ===
+                                  "Invited Articles, Book Chapters, and Edited Books"
+                                ? "bg-green-100 text-green-800"
+                                : pub.type === "Conference Papers"
+                                ? "bg-purple-100 text-purple-800"
+                                : "bg-gray-100 text-gray-800"
+                            }`}
+                          >
+                            {pub.type}
+                          </Badge>
+                        </TableCell>
+                      </TableRow>
+                    ))
+                  ) : (
+                    <TableRow>
+                      <TableCell
+                        colSpan={4}
+                        className="text-center py-8 text-gray-500"
+                      >
+                        No publications found matching your criteria
                       </TableCell>
                     </TableRow>
-                  ))
-                ) : (
-                  <TableRow>
-                    <TableCell
-                      colSpan={4}
-                      className="text-center py-8 text-gray-500"
-                    >
-                      No publications found matching your criteria
-                    </TableCell>
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
+                  )}
+                </TableBody>
+              </Table>
+            </div>
           </CardContent>
         </Card>
 
-        {/* Pagination Controls */}
-        <div className="flex justify-between items-center mt-6">
+        {/* Pagination */}
+        <div className="flex flex-col sm:flex-row justify-between items-center mt-6 gap-4">
           <Button
             variant="outline"
             disabled={currentPage === 1}
@@ -291,11 +289,12 @@ export default function PublicationListPage() {
           </Button>
         </div>
 
+        {/* Patents Section */}
         <div className="mt-20 pt-16 border-t border-gray-200">
-          <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">Patents </h3>
-            <div className="w-full max-w-6xl mx-auto">
-              {renderPatentsList()}
-            </div>
+          <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">
+            Patents
+          </h3>
+          <div className="w-full max-w-6xl mx-auto">{renderPatentsList()}</div>
         </div>
       </div>
     </div>

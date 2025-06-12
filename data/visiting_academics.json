@@ -1,110 +1,152 @@
 [
   {
     "id": 1,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science and Software",
     "university": "Auburn University",
-    "location": "USA",
-    "department": "Department of Computer Science and Software"
+    "host": "Prof. Wei-Shinn Ku",
+    "location": "USA"
   },
   {
     "id": 2,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science and Engineering",
     "university": "Hong Kong University of Science and Technology",
-    "location": "Hong Kong",
-    "department": "Department of Computer Science and Engineering"
+    "host": "Prof. Raymond Wong",
+    "location": "Hong Kong"
   },
   {
     "id": 3,
+    "title": "Visiting Scholar",
+    "department": "Living Analytics Research Centre, School of Information Systems",
     "university": "Singapore Management University",
-    "location": "Singapore",
-    "department": "School of Information Systems"
+    "host": "Prof. Ee Peng Lim",
+    "location": "Singapore"
   },
   {
     "id": 4,
+    "title": "Visiting Scholar",
+    "department": "Department of Biomedical Informatics",
     "university": "Columbia University",
-    "location": "USA",
-    "department": "Department of Biomedical Informatics"
+    "host": "Prof. Noemie Elhadad",
+    "location": "USA"
   },
   {
     "id": 5,
+    "title": "Visiting Scholar",
+    "department": "Department of Computing",
     "university": "The Hong Kong Polytechnic University",
-    "location": "Hong Kong",
-    "department": "Department of Computing"
+    "host": "Prof. Eric Lo",
+    "location": "Hong Kong"
   },
   {
     "id": 6,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science and Engineering",
     "university": "Hong Kong University of Science and Technology",
-    "location": "Hong Kong",
-    "department": "Department of Computer Science and Engineering"
+    "host": "Prof. Lei Chen",
+    "location": "Hong Kong"
   },
   {
     "id": 7,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science and Engineering",
     "university": "Pennsylvania State University",
-    "location": "USA",
-    "department": "Department of Computer Science and Engineering"
+    "host": "Prof. Wang-Chien Lee",
+    "location": "USA"
   },
   {
     "id": 8,
-    "university": "Harvard Graduate School of Education",
+    "title": "Visiting Scholar",
+    "department": "Harvard Graduate School of Education",
+    "university": "Harvard University",
+    "host": "Prof. Tina Grotzer",
     "location": "USA",
-    "department": "Science Education and Learning Technologies"
+    "note": "on Science Education and Learning Technologies"
   },
   {
     "id": 9,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science",
     "university": "The University of Hong Kong",
-    "location": "Hong Kong",
-    "department": "Department of Computer Science"
+    "host": "Prof. David Cheung",
+    "location": "Hong Kong"
   },
   {
     "id": 10,
+    "title": "Visiting Scholar",
+    "department": "Department of Systems Engineering and Engineering Management",
     "university": "The Chinese University of Hong Kong",
-    "location": "Hong Kong",
-    "department": "Department of Systems Engineering and Engineering Management"
+    "host": "Prof. Jeffrey Yu",
+    "location": "Hong Kong"
   },
   {
     "id": 11,
+    "title": "Visiting Scholar",
+    "department": "Department of Computer Science",
     "university": "Boston University",
-    "location": "USA",
-    "department": "Department of Computer Science"
+    "host": "Prof. George Kollios",
+    "location": "USA"
   },
   {
     "id": 12,
-    "university": "Harvard Graduate School of Education",
+    "title": "Visiting Scholar",
+    "department": "Harvard Graduate School of Education",
+    "university": "Harvard University",
+    "host": "Prof. Christopher Dede",
     "location": "USA",
-    "department": "Science Education and Learning Technologies"
+    "note": "on Science Education and Learning Technologies"
   },
   {
     "id": 13,
-    "university": "Microsoft Research Asia",
-    "location": "China",
-    "department": "Faculty Summit (Invited Participant)"
+    "title": "Invited Participant",
+    "department": null,
+    "university": "Microsoft Research Asia Faculty Summit",
+    "host": null,
+    "location": "Beijing, China"
   },
   {
     "id": 14,
-    "university": "King\u2019s College London, University of London",
+    "title": "Visiting Scholar",
+    "department": null,
+    "university": "King’s College London, University of London",
+    "host": "Prof. Costas Iliopoulos",
     "location": "UK",
-    "department": "Department of Informatics - Algorithms for Pattern Analysis in Music Databases"
+    "note": "two-year research project under Taiwan–UK Joint Project Grant"
   },
   {
     "id": 15,
+    "title": "Visiting Scholar",
+    "department": "Computer Science Department",
     "university": "Stanford University",
-    "location": "USA",
-    "department": "Computer Science Department"
+    "host": "Prof. Hector Garcia-Molina",
+    "location": "USA"
   },
   {
     "id": 16,
+    "title": "Visiting Scholar",
+    "department": "Center for Computer Assisted Research in the Humanities",
     "university": "Stanford University",
+    "host": "Prof. Eleanor Selfridge-Field",
     "location": "USA",
-    "department": "Center for Computer Assisted Research in the Humanities"
+    "note": "lectured in Music 253/CS275A - 'Musical Information: An Introduction'"
   },
   {
     "id": 17,
+    "title": "Senior Visiting Scholar",
+    "department": "Department of Computer Science and Technology",
     "university": "Tsinghua University",
-    "location": "China",
-    "department": "Department of Computer Science and Technology"
+    "host": "Prof. Lizhu Zhou",
+    "location": "Beijing, China",
+    "note": "delivered short course and gave talks at major universities in Beijing"
   },
   {
     "id": 18,
+    "title": "Visiting Scholar",
+    "department": null,
     "university": "Kyoto University",
+    "host": "Prof. Yahiko Kambayashi",
     "location": "Japan",
-    "department": "Research Project on Advanced Database Systems"
+    "note": "foreign examiner for Japan’s National Scientific Research Project"
   }
 ]

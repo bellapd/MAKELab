@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import {
   Table,
   TableBody,
@@ -13,61 +13,67 @@ import {
 import visitingAcademics from "@/data/visiting_academics.json" assert { type: "json" };
 import programCommittees from "@/data/program_committees.json" assert { type: "json" };
 import awards from "@/data/awards.json" assert { type: "json" };
+import conferenceRoles from "@/data/conference_roles.json" assert { type: "json" };
 import PHDthesissupervision from "@/data/phd_thesis_supervision.json" assert { type: "json" };
 
 export default function Advisor() {
-  const renderVisitingTable = () => (
+ const renderVisitingList = () => (
+   <Card className="shadow-sm border border-gray-200 mt-6">
+     <CardContent className="p-6 space-y-6">
+       {visitingAcademics.map((academic) => (
+         <div key={academic.id} className="space-y-1">
+           <div className="font-semibold text-lg text-gray-900">
+             {academic.department ? `${academic.department}, ` : ""}
+             {academic.university} ({academic.location})
+           </div>
+           {academic.host && (
+             <p className="text-sm text-gray-700">
+               Hosted by <span className="font-medium">{academic.host}</span>
+             </p>
+           )}
+           {academic.note && (
+             <p className="text-sm text-gray-600 italic">{academic.note}</p>
+           )}
+         </div>
+       ))}
+     </CardContent>
+   </Card>
+ );
+
+  const renderConferenceChair = () => (
     <Card className="shadow-sm border border-gray-200 mt-6">
-      <CardContent className="p-0">
-        <Table>
-          <TableHeader>
-            <TableRow className="bg-gray-50 hover:bg-gray-50">
-              <TableHead>ID</TableHead>
-              <TableHead>University</TableHead>
-              <TableHead>Department</TableHead>
-              <TableHead>Location</TableHead>
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {visitingAcademics.map((item) => (
-              <TableRow key={item.id} className="hover:bg-gray-50">
-                <TableCell>{item.id}</TableCell>
-                <TableCell>{item.university}</TableCell>
-                <TableCell>{item.department}</TableCell>
-                <TableCell>{item.location}</TableCell>
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
+      <CardHeader className="text-xl font-semibold text-gray-900">
+        Conference Organizing Chair/Member
+      </CardHeader>
+      <CardContent className="p-6 space-y-4">
+        {conferenceRoles.map((item) => (
+          <div key={item.id} className="space-y-1">
+            <div className="text-gray-900 text-base">
+              - {item.position}, {item.name}, {item.location}, {item.year}
+            </div>
+          </div>
+        ))}
       </CardContent>
     </Card>
   );
 
+
   const renderProgramCommittees = () => (
-    <>
-      <Card className="shadow-sm border border-gray-200 mt-4">
-        <CardContent className="p-0">
-          <Table>
-            <TableHeader>
-              <TableRow className="bg-gray-50 hover:bg-gray-50">
-                <TableHead>ID</TableHead>
-                <TableHead>Conference</TableHead>
-                <TableHead>Years</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {programCommittees.map((item) => (
-                <TableRow key={item.id} className="hover:bg-gray-50">
-                  <TableCell>{item.id}</TableCell>
-                  <TableCell>{item.conference}</TableCell>
-                  <TableCell>{item.years.join(", ")}</TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </CardContent>
-      </Card>
-    </>
+    <Card className="shadow-sm border border-gray-200 mt-6">
+      <CardHeader className="text-xl font-semibold text-gray-900">
+        Program Committee Member
+      </CardHeader>
+      <CardContent className="p-6 space-y-4">
+        {programCommittees.map((item) => (
+          <div key={item.id} className="space-y-1">
+            <div className="font-semibold text-gray-900 text-base">
+              - {item.conference}
+            </div>
+            {item.years.length > 0 && (item.years.join(", "))}
+          </div>
+        ))}
+      </CardContent>
+    </Card>
   );
 
   const renderAwardsTable = () => (
@@ -78,7 +84,7 @@ export default function Advisor() {
             <TableRow className="bg-gray-50 hover:bg-gray-50">
               <TableHead>ID</TableHead>
               <TableHead>Award</TableHead>
-              <TableHead>Conference</TableHead>
+              <TableHead>Organization</TableHead>
               <TableHead>Year</TableHead>
             </TableRow>
           </TableHeader>
@@ -87,7 +93,7 @@ export default function Advisor() {
               <TableRow key={item.id} className="hover:bg-gray-50">
                 <TableCell>{item.id}</TableCell>
                 <TableCell>{item.award}</TableCell>
-                <TableCell>{item.conference}</TableCell>
+                <TableCell>{item.organization}</TableCell>
                 <TableCell>{item.year}</TableCell>
               </TableRow>
             ))}
@@ -116,7 +122,6 @@ export default function Advisor() {
               <h2 className="text-4xl font-bold text-gray-900 mb-2">
                 Arbee L.P. Chen
               </h2>
-              <p className="text-xl text-gray-600 mb-1">Professor</p>
               <a
                 href="mailto:alpchen@cs.nthu.edu.tw"
                 className="text-orange-500 font-medium"
@@ -153,8 +158,7 @@ export default function Advisor() {
                 <br />
                 <p className="text-gray-600 pl-4">
                   Chair Professor of Department of Computer Science and
-                  Information Engineering <br /> Dean of College of Information
-                  and Electrical Engineering <br />
+                  Information Engineering <br />
                   <b>Asia University</b>
                 </p>
               </div>
@@ -195,13 +199,8 @@ export default function Advisor() {
             <div className="border-l-4 border-green-500 pl-6 py-2">
               <h4 className="font-semibold text-gray-900">Asia University</h4>
               <p className="text-gray-600">
-                Chair Professor of Department of Computer Science and
-                Information Engineering
-                <br />
                 Vice President of Department of Computer Science and Information
                 Engineering
-                <br />
-                Dean of College of Information and Electrical Engineering
               </p>
             </div>
             <div className="border-l-4 border-blue-500 pl-6 py-2">
@@ -261,15 +260,17 @@ export default function Advisor() {
         <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">
           Visiting Academics{" "}
         </h3>
-        <div className="w-full max-w-6xl mx-auto">{renderVisitingTable()}</div>
+        <div className="w-full max-w-6xl mx-auto">{renderVisitingList()}</div>
       </div>
 
       {/* Program Comitee*/}
       <div className="mt-20 pt-16 pb-32 border-t border-gray-200">
         <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">
-          Program Comitee
+          Comitee
         </h3>
+
         <div className="w-full max-w-6xl mx-auto">
+          {renderConferenceChair()}
           {renderProgramCommittees()}
         </div>
       </div>
