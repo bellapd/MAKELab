@@ -1,10 +1,6 @@
 "use client";
 
-import {
-  Sheet,
-  SheetContent,
-  SheetTrigger,
-} from "@/components/ui/sheet";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import { Menu } from "lucide-react";
 import Link from "next/link";
@@ -15,16 +11,13 @@ export default function Navbar() {
       <nav className="flex items-center justify-center gap-6">
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-10">
-          <Link
-            href="/"
-            className="text-xl font-medium text-black"
-          >
+          <Link href="/" className="text-xl font-medium text-black">
             Home
-          </Link>  
-          
+          </Link>
+
           <Link
             href="/advisor"
-            className="text-xl font-medium text-black hover:text-orange-500 transition-colors duration-200" 
+            className="text-xl font-medium text-black hover:text-orange-500 transition-colors duration-200"
           >
             Advisor
           </Link>
@@ -43,12 +36,12 @@ export default function Navbar() {
             Research
           </Link>
 
-          <Button
-            size="lg"
-            className="bg-black text-white text-xl px-6"
-          >
-            <Link href="/join-us" className="w-full h-full flex items-center justify-center">
-              Join Us
+          <Button size="lg" className="bg-black text-white text-xl px-6">
+            <Link
+              href="/join-us"
+              className="w-full h-full flex items-center justify-center"
+            >
+              Contact Us
             </Link>
           </Button>
         </div>
@@ -63,16 +56,27 @@ export default function Navbar() {
             </SheetTrigger>
             <SheetContent side="right" className="w-64">
               <div className="flex flex-col gap-6 mt-10">
-                <Link href="/" className="text-base font-medium">Home</Link>
-                <Link href="/advisor" className="text-base font-medium">Advisor</Link>
-                <Link href="/lab-members" className="text-base font-medium">Lab Members</Link>
-                <Link href="/research" className="text-base font-medium">Research</Link>
+                <Link href="/" className="text-base font-medium">
+                  Home
+                </Link>
+                <Link href="/advisor" className="text-base font-medium">
+                  Advisor
+                </Link>
+                <Link href="/lab-members" className="text-base font-medium">
+                  Lab Members
+                </Link>
+                <Link href="/research" className="text-base font-medium">
+                  Research
+                </Link>
                 <Button
                   size="sm"
                   className="bg-more-orange-500 hover:bg-more-orange-600 text-white text-base"
                 >
-                  <Link href="/join-us" className="w-full h-full flex items-center justify-center">
-                    Join Us
+                  <Link
+                    href="/join-us"
+                    className="w-full h-full flex items-center justify-center"
+                  >
+                    Contact Us
                   </Link>
                 </Button>
               </div>

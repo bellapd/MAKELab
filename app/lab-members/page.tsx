@@ -10,21 +10,26 @@ export default function LabMembersPage() {
       <div className="min-h-screen max-w-7xl mx-auto px-6 py-26 pt-52 bg-white">
         {/* Page Header */}
         <div className="text-center mb-16">
-          <h1 className="text-5xl font-bold mb-6 text-black">
-            Lab Members
-          </h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">Meet our talented students</p>
+          <h1 className="text-5xl font-bold mb-6 text-black">Lab Members</h1>
+          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            Meet our talented students
+          </p>
         </div>
 
         {/* Current Students Section */}
         <Card className="mb-16 shadow-xl border-0 bg-white/80 backdrop-blur-sm">
           <CardHeader className="bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-t-lg">
-            <CardTitle className="text-3xl font-bold">Current Members</CardTitle>
+            <CardTitle className="text-3xl font-bold">
+              Current Members
+            </CardTitle>
           </CardHeader>
           <CardContent className="p-8">
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {currentStudent.map((student, index) => (
-                <Card key={index} className="shadow-lg hover:shadow-xl transition-shadow border-0 bg-white">
+                <Card
+                  key={index}
+                  className="shadow-lg hover:shadow-xl transition-shadow border-0 bg-white"
+                >
                   <CardContent className="p-6 text-center">
                     <Image
                       src={student.image || "/placeholder.svg"}
@@ -33,7 +38,9 @@ export default function LabMembersPage() {
                       height={200}
                       className="rounded-full mx-auto mb-4 w-32 h-32 object-cover"
                     />
-                    <h3 className="text-xl font-bold text-gray-800 mb-2">{student.name}</h3>
+                    <h3 className="text-xl font-bold text-gray-800 mb-2">
+                      {student.name}
+                    </h3>
                     <div className="space-y-2">
                       <Badge
                         className={`${
@@ -64,21 +71,27 @@ export default function LabMembersPage() {
               {alumniData.map((student, index) => (
                 <div
                   key={index}
-                  className="flex justify-between items-center p-4 bg-gradient-to-r from-gray-50 to-gray-100 rounded-lg hover:from-orange-50 hover:to-red-50 transition-colors"
+                  className="flex flex-wrap md:flex-nowrap justify-between gap-4 p-4 bg-gradient-to-r from-gray-50 to-gray-100 rounded-lg hover:from-orange-50 hover:to-red-50 transition-colors"
                 >
-                  <div>
-                    <h4 className="font-semibold text-gray-800">{student.name}</h4>
-                    <p className="text-gray-600 p-3">{student.paper}</p>
+                  <div className="flex-1 min-w-0">
+                    <h4 className="font-semibold text-gray-800">
+                      {student.name}
+                    </h4>
+                    <p className="text-gray-600 py-2">{student.paper}</p>
                     <Badge
                       variant="outline"
                       className={`mt-1 ${
-                        student.degree === "PhD" ? "border-orange-300 text-orange-700" : "border-blue-300 text-blue-700"
+                        student.degree === "PhD"
+                          ? "border-orange-300 text-orange-700"
+                          : "border-blue-300 text-blue-700"
                       }`}
                     >
                       {student.degree}
                     </Badge>
                   </div>
-                  <span className="text-gray-500 font-medium">{student.year}</span>
+                  <span className="text-gray-500 font-medium whitespace-nowrap self-start">
+                    {student.year}
+                  </span>
                 </div>
               ))}
             </div>
@@ -86,5 +99,5 @@ export default function LabMembersPage() {
         </Card>
       </div>
     </div>
-  )
+  );
 }
