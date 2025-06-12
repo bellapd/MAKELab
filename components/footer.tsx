@@ -3,12 +3,6 @@
 import { useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
-import {
-  Twitter,
-  Dribbble,
-  Twitch,
-  Github,
-} from "lucide-react"
 
 export default function Footer() {
   const [email, setEmail] = useState("")
@@ -20,7 +14,7 @@ export default function Footer() {
   }
 
   return (
-    <footer className="bg-yellow-400 text-gray-900">
+    <footer className="w-full bg-yellow-400 text-gray-900 shadow-xl">
       <div className="max-w-7xl mx-auto px-6 py-12">
         <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-8 md:gap-0">
           {/* Left side: address + logo + nav stacked vertically */}
@@ -41,7 +35,7 @@ export default function Footer() {
               {/* Navigation links stacked vertically */}
               <nav className="flex flex-col space-y-3 text-sm text-gray-900">
                 {[
-                  { label: "About", href: "/about" },
+                  { label: "Advisor", href: "/advisor" },
                   { label: "Lab Members", href: "/lab-members" },
                   { label: "Research", href: "/research" },
                   { label: "Contact Us", href: "/join-us" },

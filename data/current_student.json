@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Syauki Aulia Thamrin",
+    "status": "Postdoctoral Researcher",
+    "email": "syauki.aulia@outlook.com",
+    "image": "/S__33996814.jpg"
+  },
+  {
+    "name": "王俊皓",
+    "status": "Master",
+    "department": "Department of Computer Science",
+    "email": "dddd3083@gmail.com",
+    "image": "/S__18546751.jpg"
+  },
+  {
+    "name": "陳致齊",
+    "status": "Master",
+    "department": "Department of Computer Science",
+    "email": "linus901105@gmail.com",
+    "image": "/linus_headshot.jpg"
+  },
+  {
+    "name": "毛胤絜",
+    "status": "Master",
+    "department": "Department of Computer Science",
+    "email": "maojack900610@gmail.com",
+    "image": "/S__108060676.jpg"
+  },
+  {
+    "name": "Annabella Putri Dirgo (楊玉蘋）",
+    "status": "Master",
+    "department": "Institute of Information Systems and Applications",
+    "email": "belladirgo@gapp.nthu.edu.tw",
+    "image": "/02.01-5x5.jpg"
+  },
+  {
+    "name": "吳花瑜",
+    "status": "Master",
+    "department": "Institute of Information Systems and Applications",
+    "email": "vivian989370@gmail.com",
+    "image": "/vivian.jpg"
+  },
+  {
+    "name": "陳威宏",
+    "status": "Master",
+    "department": "Department of Computer Science",
+    "email": "vincentb0223@gmail.com",
+    "image": "/陳威宏.png"
+  }
+]

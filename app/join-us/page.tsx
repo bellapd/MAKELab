@@ -11,10 +11,10 @@ const LeafletMap = dynamic(() => import("@/components/LeafletMap"), {
 
 export default function JoinUsPage() {
   return (
-    <div className="max-w-7xl mx-auto px-4 py-12">
+    <div className="max-w-7xl mx-auto px-6 py-26 pt-52 bg-white">
       {/* Header */}
       <div className="text-center mb-16">
-        <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-orange-500 via-red-500 to-blue-500 bg-clip-text text-transparent">
+        <h1 className="text-5xl font-bold mb-6 text-black">
           Lab Location
         </h1>
       </div>

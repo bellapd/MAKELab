@@ -15,6 +15,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Search, ChevronDown, ChevronUp } from "lucide-react";
 import publicationList from "@/data/publication_list.json";
+import patents from "@/data/patents.json" assert { type: "json" };
 
 type Publication = {
   id: number;
@@ -99,12 +100,25 @@ export default function PublicationListPage() {
   const goPrevious = () => setCurrentPage((p) => Math.max(1, p - 1));
   const goNext = () => setCurrentPage((p) => Math.min(pageCount, p + 1));
 
+  const renderPatentsList = () => (
+    <ul className="list-disc ml-6 space-y-2 mt-6">
+      {patents.map((item) => (
+        <li key={item.id} className="text-gray-800">
+          <p className="font-semibold">{item.title}</p>
+          <p>
+            {item.patent_numbers.join("; ")} {item.dates.filter(date => date).join("; ")}
+          </p>
+        </li>
+      ))}
+    </ul>
+  )
+
   return (
-    <div className="min-h-screen bg-white">
-      <div className="max-w-7xl mx-auto px-4 py-12">
+    <div className="min-h-screen bg-white mx-auto px-6 py-26 pt-52">
+      <div className="max-w-7xl mx-auto px-4 py-3">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-orange-500 via-red-500 to-blue-500 bg-clip-text text-transparent">
+          <h1 className="text-5xl font-bold mb-8 text-black">
             Publications
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -275,6 +289,13 @@ export default function PublicationListPage() {
           >
             Next
           </Button>
+        </div>
+
+        <div className="mt-20 pt-16 border-t border-gray-200">
+          <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">Patents </h3>
+            <div className="w-full max-w-6xl mx-auto">
+              {renderPatentsList()}
+            </div>
         </div>
       </div>
     </div>
