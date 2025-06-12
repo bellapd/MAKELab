@@ -6,7 +6,7 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { Sheet, SheetTitle, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -65,6 +65,9 @@ export default function Navbar18() {
               </Button>
             </SheetTrigger>
             <SheetContent side="right" className="w-64 sm:w-72">
+              {/* A11y Title for Screen Readers */}
+              <SheetTitle className="sr-only">MAKE Lab Navigation</SheetTitle>
+
               <div className="flex flex-col gap-5 mt-10 text-base font-medium">
                 <Link href="/">Home</Link>
                 <Link href="/advisor">Advisor</Link>

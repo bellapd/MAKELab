@@ -114,7 +114,7 @@ export default function PublicationListPage() {
   )
 
   return (
-    <div className="min-h-screen bg-white px-4 sm:px-6 lg:px-8 pt-40">
+    <div className="min-h-screen bg-white px-4 sm:px-6 lg:px-8 pt-40 pb-24">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
@@ -290,7 +290,7 @@ export default function PublicationListPage() {
         </div>
 
         {/* Patents Section */}
-        <div className="mt-20 pt-16 border-t border-gray-200">
+        <div className="mt-20 pt-16 border-t border-gray-200 pb-30">
           <h3 className="text-3xl font-bold text-gray-900 mb-12 text-center">
             Patents
           </h3>

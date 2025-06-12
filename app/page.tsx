@@ -8,7 +8,7 @@ import { FaUserTie } from "react-icons/fa";
 
 export default function LandingPage() {
   return (
-    <main className="flex-grow min-h-[calc(100vh-160px)] w-full px-4 sm:px-8 py-12 sm:py-16 bg-white">
+    <main className="flex flex-col justify-center min-h-[calc(100vh-160px)] w-full px-4 sm:px-8 pt-20 sm:pt-24 pb-10 sm:pb-0 bg-white">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         {/* Left Section - Text Content */}
         <div className="space-y-6">
